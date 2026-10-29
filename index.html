@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <!-- SEO -->
+  <title>Conexión Celestial TV | Radio Adventista del Séptimo Día</title>
+  <meta name="description"
+    content="Conexión Celestial TV — Radio y canal de la Iglesia Adventista del Séptimo Día. Alabanzas, prédicas, mensajes bíblicos, oración y transmisión en vivo. Lunes a Viernes de 7am a 5pm." />
+  <meta name="keywords"
+    content="radio adventista, iglesia adventista, conexion celestial, predicas, alabanzas, biblia, oracion, colombia" />
+  <meta name="author" content="Conexión Celestial TV" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Conexión Celestial TV | Radio Adventista" />
+  <meta property="og:description"
+    content="Alabanzas, prédicas y transmisión en vivo de la Iglesia Adventista del Séptimo Día." />
+  <meta property="og:image" content="./assets/img/hero_portada.jpg" />
+
+  <!-- Canonical -->
+  <link rel="canonical" href="./index.html" />
+
+  <!-- Favicon -->
+  <link rel="icon"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23111625'/%3E%3Cpath d='M32 10v44M20 22h24' stroke='%23d4af37' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E" />
+
+  <!-- Preload images -->
+  <link rel="preload" as="image" href="./assets/img/hero_portada.jpg" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="./css/main.css" />
+  <link rel="stylesheet" href="./css/components.css" />
+  <link rel="stylesheet" href="./css/pages.css" />
+</head>
+
+<body>
+
+  <!-- Skip link accesibilidad -->
+  <a href="#main-content" class="skip-link">Ir al contenido principal</a>
+
+  <!-- ═══ NAVBAR ═══════════════════════════════════════════════ -->
+  <header role="banner">
+    <nav class="navbar" aria-label="Navegación principal">
+      <div class="navbar__inner">
+
+        <!-- Logo -->
+        <a href="./index.html" class="navbar__logo" aria-label="Conexión Celestial TV - Inicio">
+          <div class="logo-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="ui-icon" aria-hidden="true"><path d="M12 2v20"/><path d="M7 7h10"/></svg>
+          </div>
+          <div class="logo-text">
+            <span class="logo-name">Conexión Celestial</span>
+            <span class="logo-sub">TV · Iglesia Adventista</span>
+          </div>
+        </a>
+
+        <!-- Nav Links -->
+        <ul class="nav-menu" id="nav-menu" role="list">
+          <li><a href="./index.html" class="nav-link" id="nav-inicio">Inicio</a></li>
+          <li><a href="./pages/testimonios.html" class="nav-link" id="nav-testimonios">Testimonios</a></li>
+          <li><a href="./pages/esperanza.html" class="nav-link" id="nav-esperanza">Esperanza</a></li>
+        </ul>
+
+        <!-- Hamburguesa -->
+        <button class="nav-toggle" id="nav-toggle" aria-controls="nav-menu" aria-expanded="false"
+          aria-label="Abrir menú de navegación">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+      </div>
+    </nav>
+  </header>
+
+  <!-- ═══ MAIN ══════════════════════════════════════════════════ -->
+  <main id="main-content">
+
+    <!-- ═══ HERO ═══════════════════════════════════════════════ -->
+    <section class="hero" aria-label="Sección principal">
+      <div class="hero__bg"></div>
+      <img src="./assets/img/hero_portada.jpg" alt="Cruz en la montaña al amanecer — símbolo de fe y esperanza"
+        class="hero__img" loading="eager" fetchpriority="high" />
+      <div class="hero__overlay"></div>
+
+      <!-- Partículas decorativas -->
+      <div class="particles" aria-hidden="true" id="particles"></div>
+
+      <div class="hero__content">
+        <div class="hero__inner">
+
+          <div class="hero__eyebrow">
+            <span class="hero__eyebrow-line"></span>
+            <span class="hero__eyebrow-text">Iglesia Adventista del Séptimo Día</span>
+            <span class="hero__eyebrow-line"></span>
+          </div>
+
+          <h1 class="hero__title">
+            Conexión
+            <span class="highlight">Celestial TV</span>
+          </h1>
+
+          <p class="hero__subtitle">
+            Alabanzas, prédicas y la Palabra de Dios que transforma vidas.
+            Tu encuentro diario con el Cielo.
+          </p>
+
+          <p class="hero__bible-ref" aria-label="Versículo bíblico">
+            Jeremías 29:11 — "Planes de bienestar y no de calamidad, para daros un futuro y una esperanza."
+          </p>
+
+          <!-- CTA Buttons -->
+          <div class="hero__cta">
+            <button class="btn btn-primary btn-xl" id="btn-oracion" aria-haspopup="dialog" aria-controls="prayer-modal">
+              <svg class="ui-icon btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3c-.5 1.5-1.5 3-2.5 5.5-1 2.5-1.5 5.5-.5 7.5l3 4 3-4c1-2 .5-5-.5-7.5C13.5 6 12.5 4.5 12 3z"/><path d="M9.5 8.5C8 10.5 7 13 8 16l4 4"/><path d="M14.5 8.5C16 10.5 17 13 16 16l-4 4"/></svg>
+              Quiero una Oración
+            </button>
+
+            <a href="https://open.spotify.com/playlist/5WqrbxedKYAr5PvnlwdMNz?si=9a3cba42d051494d" target="_blank"
+              rel="noopener noreferrer" class="btn btn-ghost btn-xl" id="btn-playlist"
+              aria-label="Ver playlist en Spotify (abre en nueva pestaña)">
+              <svg class="ui-icon btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+              Ver Playlist
+            </a>
+
+            <a href="https://www.youtube.com/@conexioncelestial7-n9k" target="_blank" rel="noopener noreferrer"
+              class="btn btn-outline btn-xl" id="btn-live"
+              aria-label="Escuchar en vivo en YouTube (abre en nueva pestaña)">
+              <svg class="ui-icon btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="20" height="15" x="2" y="7" rx="2" ry="2"/><polyline points="17 2 12 7 7 2"/></svg>
+              En Vivo
+              <span class="badge badge-live" aria-label="En directo"><span class="badge-dot" aria-hidden="true"></span>LIVE</span>
+            </a>
+          </div>
+
+          <!-- Stats -->
+          <div class="hero__stats" aria-label="Estadísticas del ministerio">
+            <div class="stat-item">
+              <div class="stat-num">10h</div>
+              <div class="stat-label">Transmisión diaria</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-num">500</div>
+              <div class="stat-label">Versículos de esperanza</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-num">∞</div>
+              <div class="stat-label">Amor de Dios</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Scroll indicator -->
+      <div class="hero__scroll" aria-hidden="true">
+        <div class="scroll-mouse">
+          <div class="scroll-wheel"></div>
+        </div>
+        <span class="scroll-text">Descubre más</span>
+      </div>
+    </section>
+
+    <!-- ═══ SERVICIOS / CTAs ══════════════════════════════════════ -->
+    <section class="services section" aria-labelledby="services-title">
+      <div class="container">
+        <header class="section-header">
+          <span class="section-label">Nuestros Servicios</span>
+          <h2 class="section-title" id="services-title">
+            ¿Cómo podemos <span>bendecirte hoy?</span>
+          </h2>
+          <p class="section-desc">
+            Accede a nuestros servicios espirituales diseñados para edificar tu fe y acercarte a Dios.
+          </p>
+          <div class="divider"></div>
+        </header>
+
+        <div class="services__grid">
+
+          <!-- Oración -->
+          <button class="service-card" id="service-oracion" aria-haspopup="dialog" aria-controls="prayer-modal"
+            data-animate data-delay="100">
+            <div class="service-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.85" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3c-.5 1.5-1.5 3-2.5 5.5-1 2.5-1.5 5.5-.5 7.5l3 4 3-4c1-2 .5-5-.5-7.5C13.5 6 12.5 4.5 12 3z"/><path d="M9.5 8.5C8 10.5 7 13 8 16l4 4"/><path d="M14.5 8.5C16 10.5 17 13 16 16l-4 4"/></svg>
+            </div>
+            <h3 class="service-title">Petición de Oración</h3>
+            <p class="service-desc">
+              Nuestro equipo de intercesión orará por ti personalmente. Comparte tu necesidad y recibirás apoyo
+              espiritual.
+            </p>
+            <span class="service-arrow">Enviar petición <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
+          </button>
+
+          <!-- Spotify -->
+          <a href="https://open.spotify.com/playlist/5WqrbxedKYAr5PvnlwdMNz?si=9a3cba42d051494d" target="_blank"
+            rel="noopener noreferrer" class="service-card" id="service-playlist" data-animate data-delay="200"
+            aria-label="Ver playlist de alabanzas adventistas en Spotify">
+            <div class="service-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.586 14.424a.623.623 0 0 1-.857.207c-2.348-1.435-5.304-1.76-8.785-.964a.624.624 0 0 1-.277-1.218c3.809-.87 7.077-.496 9.712 1.118a.624.624 0 0 1 .207.857zm1.224-2.723a.78.78 0 0 1-1.073.257c-2.688-1.652-6.786-2.13-9.965-1.164a.78.78 0 1 1-.453-1.493c3.632-1.103 8.147-.568 11.234 1.327a.78.78 0 0 1 .257 1.073zm.105-2.836C14.693 8.98 9.387 8.803 6.304 9.74a.936.936 0 1 1-.547-1.791c3.54-1.074 9.399-.864 13.337 1.474a.936.936 0 0 1-1.179 1.44z"/></svg>
+            </div>
+            <h3 class="service-title">Playlist de Alabanzas</h3>
+            <p class="service-desc">
+              Escucha nuestra selección de alabanzas y música cristiana adventista cuidadosamente seleccionadas para tu
+              devoción.
+            </p>
+            <span class="service-arrow">Escuchar en Spotify <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
+          </a>
+
+          <!-- YouTube Live -->
+          <a href="https://www.youtube.com/@conexioncelestial7-n9k" target="_blank" rel="noopener noreferrer"
+            class="service-card" id="service-live" data-animate data-delay="300"
+            aria-label="Ver transmisión en vivo en YouTube">
+            <div class="service-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+            </div>
+            <h3 class="service-title">Transmisión en Vivo</h3>
+            <p class="service-desc">
+              Únete a nuestras transmisiones diarias de lunes a viernes. Prédicas, alabanzas y comunión en tiempo
+              real.
+            </p>
+            <span class="service-arrow">Ver en YouTube <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
+          </a>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ ACERCA DE / HORARIOS ══════════════════════════════════ -->
+    <section class="about section" aria-labelledby="about-title">
+      <div class="container">
+        <div class="about__grid">
+
+          <!-- Info -->
+          <div data-animate="left">
+            <span class="about__label">Nuestro Ministerio</span>
+            <h2 class="about__title" id="about-title">
+              Llevando el Evangelio<br><span>a cada hogar</span>
+            </h2>
+            <p class="about__desc">
+              Conexión Celestial TV es el ministerio digital de la Iglesia Adventista del Séptimo Día,
+              comprometido a llevar mensaje de esperanza, salvación y amor a través de la radio y la pantalla.
+              Cada programa está diseñado para edificar tu fe y fortalecer tu relación con Dios.
+            </p>
+
+            <ul class="about__features">
+              <li class="feature-item" data-animate data-delay="100">
+                <span class="feature-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="8" y1="22" x2="16" y2="22"/></svg>
+                </span>
+                <div class="feature-text">
+                  <strong>Prédicas Bíblicas</strong>
+                  <p>Mensajes fundamentados en las Sagradas Escrituras con aplicación práctica para tu vida diaria.</p>
+                </div>
+              </li>
+              <li class="feature-item" data-animate data-delay="200">
+                <span class="feature-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><circle cx="8" cy="18" r="3"/><circle cx="16" cy="16" r="3"/><path d="M11 18V4l8-2v14"/><path d="M11 9l8-2"/></svg>
+                </span>
+                <div class="feature-text">
+                  <strong>Alabanzas Adventistas</strong>
+                  <p>Música que glorifica a Dios y edifica el alma, seleccionada con amor para tu devoción.</p>
+                </div>
+              </li>
+              <li class="feature-item" data-animate data-delay="300">
+                <span class="feature-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><path d="M12 2v20"/><path d="M7 7h10"/></svg>
+                </span>
+                <div class="feature-text">
+                  <strong>Oración Intercesora</strong>
+                  <p>Un equipo comprometido que ora por cada petición recibida de nuestra comunidad.</p>
+                </div>
+              </li>
+              <li class="feature-item" data-animate data-delay="400">
+                <span class="feature-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                </span>
+                <div class="feature-text">
+                  <strong>Estudio de la Biblia</strong>
+                  <p>Programas de estudio bíblico profundo, siguiendo las doctrinas adventistas del séptimo día.</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Schedule -->
+          <div data-animate="right">
+            <div class="about__schedule" aria-label="Horario de transmisión en vivo">
+              <div class="schedule-emoji" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><path d="M4.93 4.93a10 10 0 0 1 14.14 0"/><path d="M7.76 7.76a6 6 0 0 1 8.48 0"/><circle cx="12" cy="12" r="2"/><path d="M12 14v8"/><path d="M9 22h6"/></svg>
+              </div>
+              <h3 class="schedule-title">Horario de Transmisión</h3>
+
+              <div class="schedule-block">
+                <div class="schedule-block__day">Lunes a Viernes</div>
+                <div class="schedule-block__time">7:00 AM — 5:00 PM</div>
+                <div class="schedule-block__note">Hora Colombia (UTC-5)</div>
+              </div>
+
+              <div class="live-badge" aria-live="polite">
+                <span class="live-dot" aria-hidden="true"></span>
+                Transmitiendo en vivo ahora
+              </div>
+
+              <div style="margin-top: var(--space-6); display: flex; flex-direction: column; gap: var(--space-3);">
+                <a href="https://www.youtube.com/@conexioncelestial7-n9k" target="_blank" rel="noopener noreferrer"
+                  class="btn btn-primary btn-lg" id="cta-youtube-schedule" aria-label="Ver en vivo en YouTube">
+                  <svg class="ui-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg> Ver en YouTube
+                </a>
+                <a href="https://open.spotify.com/playlist/5WqrbxedKYAr5PvnlwdMNz?si=9a3cba42d051494d" target="_blank"
+                  rel="noopener noreferrer" class="btn btn-ghost btn-lg" id="cta-spotify-schedule"
+                  aria-label="Escuchar playlist en Spotify">
+                  <svg class="ui-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.586 14.424a.623.623 0 0 1-.857.207c-2.348-1.435-5.304-1.76-8.785-.964a.624.624 0 0 1-.277-1.218c3.809-.87 7.077-.496 9.712 1.118a.624.624 0 0 1 .207.857zm1.224-2.723a.78.78 0 0 1-1.073.257c-2.688-1.652-6.786-2.13-9.965-1.164a.78.78 0 1 1-.453-1.493c3.632-1.103 8.147-.568 11.234 1.327a.78.78 0 0 1 .257 1.073zm.105-2.836C14.693 8.98 9.387 8.803 6.304 9.74a.936.936 0 1 1-.547-1.791c3.54-1.074 9.399-.864 13.337 1.474a.936.936 0 0 1-1.179 1.44z"/></svg> Playlist en Spotify
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ PROGRAMAS ══════════════════════════════════════════════ -->
+    <section class="programs section" aria-labelledby="programs-title">
+      <div class="container">
+        <header class="section-header">
+          <span class="section-label">Nuestra Programación</span>
+          <h2 class="section-title" id="programs-title">
+            Programas que <span>transforman vidas</span>
+          </h2>
+          <p class="section-desc">Cada programa es una oportunidad de encuentro con Dios y de crecimiento espiritual.
+          </p>
+          <div class="divider"></div>
+        </header>
+
+        <div class="programs__grid">
+
+          <!-- Alabanzas -->
+          <article class="program-card" data-animate data-delay="100">
+            <img src="./assets/img/programa_alabanzas.jpg"
+              alt="Comunidad en alabanza y adoración a Dios con manos levantadas" class="program-card__img"
+              loading="lazy" />
+            <div class="program-card__overlay">
+              <span class="program-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+              </span>
+              <h3 class="program-card__title">Alabanzas y Adoración</h3>
+              <p class="program-card__desc">
+                Música cristiana adventista que llena tu alma de gozo y transforma tu mente en adoración a Dios.
+              </p>
+            </div>
+          </article>
+
+          <!-- Testimonios -->
+          <article class="program-card" data-animate data-delay="200">
+            <img src="./assets/img/programa_testimonios.jpg"
+              alt="Comunidad compartiendo testimonios de milagros y la obra de Dios" class="program-card__img"
+              loading="lazy" />
+            <div class="program-card__overlay">
+              <span class="program-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><path d="m12 3-1.91 5.82a2 2 0 0 1-1.27 1.27L3 12l5.82 1.91a2 2 0 0 1 1.27 1.27L12 21l1.91-5.82a2 2 0 0 1 1.27-1.27L21 12l-5.82-1.91a2 2 0 0 1-1.27-1.27L12 3z"/><path d="M5 3v4"/><path d="M3 5h4"/><path d="M19 17v4"/><path d="M17 19h4"/></svg>
+              </span>
+              <h3 class="program-card__title">Testimonios</h3>
+              <p class="program-card__desc">
+                Vidas cambiadas por el poder de Dios. Historias reales de fe, restauración y milagros.
+              </p>
+            </div>
+          </article>
+
+          <!-- Oración -->
+          <article class="program-card" data-animate data-delay="300">
+            <img src="./assets/img/programa_oracion.jpg" alt="Persona en oración con manos juntas en actitud de súplica"
+              class="program-card__img" loading="lazy" />
+            <div class="program-card__overlay">
+              <span class="program-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><path d="M12 3c-.5 1.5-1.5 3-2.5 5.5-1 2.5-1.5 5.5-.5 7.5l3 4 3-4c1-2 .5-5-.5-7.5C13.5 6 12.5 4.5 12 3z"/><path d="M9.5 8.5C8 10.5 7 13 8 16l4 4"/><path d="M14.5 8.5C16 10.5 17 13 16 16l-4 4"/></svg>
+              </span>
+              <h3 class="program-card__title">Oración Intercesora</h3>
+              <p class="program-card__desc">
+                Un equipo dedicado que presenta tus peticiones delante de Dios. Tu oración es escuchada.
+              </p>
+            </div>
+          </article>
+
+          <!-- Esperanza -->
+          <article class="program-card" data-animate data-delay="400">
+            <img src="./assets/img/programa_esperanza.jpg"
+              alt="Persona leyendo la Biblia en la montaña al amanecer con vista panorámica" class="program-card__img"
+              loading="lazy" />
+            <div class="program-card__overlay">
+              <span class="program-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+              </span>
+              <h3 class="program-card__title">Mensajes de Esperanza</h3>
+              <p class="program-card__desc">
+                Versículos bíblicos que renuevan tu esperanza cada 3 días. La Palabra de Dios que da vida.
+              </p>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ═══ FOOTER ════════════════════════════════════════════════ -->
+  <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="footer__grid">
+
+        <!-- Brand -->
+        <div>
+          <h2 class="footer__brand-name">Conexión Celestial TV</h2>
+          <p class="footer__brand-church">Iglesia Adventista del Séptimo Día</p>
+          <p class="footer__brand-desc">
+            Un ministerio dedicado a llevar el Evangelio, la esperanza y el amor de Dios a cada hogar a través de la
+            radio y la televisión digital.
+          </p>
+          <div class="footer__social" aria-label="Redes sociales">
+            <a href="https://www.youtube.com/@conexioncelestial7-n9k" target="_blank" rel="noopener noreferrer"
+              class="social-link" aria-label="YouTube">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+            </a>
+            <a href="https://open.spotify.com/playlist/5WqrbxedKYAr5PvnlwdMNz?si=9a3cba42d051494d" target="_blank"
+              rel="noopener noreferrer" class="social-link" aria-label="Spotify">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.586 14.424a.623.623 0 0 1-.857.207c-2.348-1.435-5.304-1.76-8.785-.964a.624.624 0 0 1-.277-1.218c3.809-.87 7.077-.496 9.712 1.118a.624.624 0 0 1 .207.857zm1.224-2.723a.78.78 0 0 1-1.073.257c-2.688-1.652-6.786-2.13-9.965-1.164a.78.78 0 1 1-.453-1.493c3.632-1.103 8.147-.568 11.234 1.327a.78.78 0 0 1 .257 1.073zm.105-2.836C14.693 8.98 9.387 8.803 6.304 9.74a.936.936 0 1 1-.547-1.791c3.54-1.074 9.399-.864 13.337 1.474a.936.936 0 0 1-1.179 1.44z"/></svg>
+            </a>
+            <a href="https://wa.me/573044546454" target="_blank" rel="noopener noreferrer" class="social-link"
+              aria-label="WhatsApp">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Navegación -->
+        <nav aria-label="Navegación del pie de página">
+          <h3 class="footer__col-title">Páginas</h3>
+          <ul class="footer__links">
+            <li><a href="./index.html" class="footer__link">Inicio</a></li>
+            <li><a href="./pages/testimonios.html" class="footer__link">Testimonios</a></li>
+            <li><a href="./pages/esperanza.html" class="footer__link">Esperanza</a></li>
+          </ul>
+        </nav>
+
+        <!-- Servicios -->
+        <nav aria-label="Servicios">
+          <h3 class="footer__col-title">Servicios</h3>
+          <ul class="footer__links">
+            <li><a href="#" class="footer__link" id="footer-oracion-link">Petición de Oración</a></li>
+            <li><a href="https://open.spotify.com/playlist/5WqrbxedKYAr5PvnlwdMNz?si=9a3cba42d051494d" target="_blank"
+                rel="noopener noreferrer" class="footer__link">
+                Playlist Alabanzas
+              </a></li>
+            <li><a href="https://www.youtube.com/@conexioncelestial7-n9k" target="_blank" rel="noopener noreferrer"
+                class="footer__link">
+                Transmisión en Vivo
+              </a></li>
+            <li><a href="./pages/testimonios.html" class="footer__link">Compartir Testimonio</a></li>
+          </ul>
+        </nav>
+
+        <!-- Horarios -->
+        <div>
+          <h3 class="footer__col-title">Transmisión</h3>
+          <div class="footer__schedule">
+            <div class="schedule-item">
+              <span class="schedule-dot" aria-hidden="true"></span>
+              <div class="schedule-info">
+                <div class="schedule-days">Lunes — Viernes</div>
+                <div class="schedule-hours">7:00 AM — 5:00 PM</div>
+              </div>
+            </div>
+            <div class="schedule-item">
+              <span class="schedule-dot" style="background:hsla(43,89%,45%,0.5)" aria-hidden="true"></span>
+              <div class="schedule-info">
+                <div class="schedule-days">Contacto directo</div>
+                <div class="schedule-hours">+57 304 454 6454</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Bottom -->
+      <div class="footer__bottom">
+        <p class="footer__copy">
+          &copy; 2024 Conexión Celestial TV · Iglesia Adventista del Séptimo Día. Todos los derechos reservados.
+        </p>
+        <p class="footer__verse">"Todo lo puedo en Cristo que me fortalece." — Filipenses 4:13</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ═══ MODAL — PETICIÓN DE ORACIÓN ══════════════════════════ -->
+  <div class="modal" id="prayer-modal" role="dialog" aria-labelledby="modal-title" aria-describedby="modal-subtitle"
+    hidden>
+    <div class="modal__content">
+      <div class="modal__header">
+        <div>
+          <div class="modal__icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="ui-icon"><path d="M12 3c-.5 1.5-1.5 3-2.5 5.5-1 2.5-1.5 5.5-.5 7.5l3 4 3-4c1-2 .5-5-.5-7.5C13.5 6 12.5 4.5 12 3z"/><path d="M9.5 8.5C8 10.5 7 13 8 16l4 4"/><path d="M14.5 8.5C16 10.5 17 13 16 16l-4 4"/></svg>
+          </div>
+          <h2 class="modal__title" id="modal-title">Petición de Oración</h2>
+          <p class="modal__subtitle" id="modal-subtitle">
+            Comparte tu necesidad con nosotros. Todos los campos marcados con <span aria-hidden="true"
+              style="color:var(--color-error)">*</span> son obligatorios.
+          </p>
+        </div>
+        <button class="modal__close" id="modal-close" aria-label="Cerrar modal">&times;</button>
+      </div>
+
+      <form id="prayer-form" novalidate aria-label="Formulario de petición de oración">
+
+        <div class="form-row">
+          <div class="form-group">
+            <label class="form-label" for="prayer-nombre">
+              Nombre <span class="required" aria-hidden="true">*</span>
+            </label>
+            <input type="text" id="prayer-nombre" name="nombre" class="form-control" placeholder="Tu nombre" required
+              autocomplete="given-name" aria-required="true" aria-describedby="prayer-nombre-error" />
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="prayer-apellido">
+              Apellido <span class="required" aria-hidden="true">*</span>
+            </label>
+            <input type="text" id="prayer-apellido" name="apellido" class="form-control" placeholder="Tu apellido"
+              required autocomplete="family-name" aria-required="true" />
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label class="form-label" for="prayer-edad">
+              Edad <span class="required" aria-hidden="true">*</span>
+            </label>
+            <input type="number" id="prayer-edad" name="edad" class="form-control" placeholder="Ej: 35" min="1"
+              max="120" required aria-required="true" />
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="prayer-estado-civil">
+              Estado Civil <span class="required" aria-hidden="true">*</span>
+            </label>
+            <select id="prayer-estado-civil" name="estadoCivil" class="form-control" required aria-required="true">
+              <option value="">Selecciona...</option>
+              <option value="Soltero/a">Soltero/a</option>
+              <option value="Casado/a">Casado/a</option>
+              <option value="Divorciado/a">Divorciado/a</option>
+              <option value="Viudo/a">Viudo/a</option>
+              <option value="Unión libre">Unión libre</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="prayer-ciudad">
+            Ciudad <span class="required" aria-hidden="true">*</span>
+          </label>
+          <input type="text" id="prayer-ciudad" name="ciudad" class="form-control" placeholder="Tu ciudad" required
+            autocomplete="address-level2" aria-required="true" />
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="prayer-peticion">
+            Petición de Oración <span class="required" aria-hidden="true">*</span>
+          </label>
+          <textarea id="prayer-peticion" name="peticion" class="form-control"
+            placeholder="Cuéntanos por qué necesitas oración. Recuerda que este mensaje es confidencial y será tratado con amor y respeto..."
+            required aria-required="true" rows="5"></textarea>
+        </div>
+
+        <!-- Acompañamiento -->
+        <div class="form-group">
+          <p class="form-label" id="acompanamiento-label">
+            ¿Deseas acompañamiento en línea? <span class="required" aria-hidden="true">*</span>
+          </p>
+          <div class="radio-group" role="radiogroup" aria-labelledby="acompanamiento-label">
+            <label class="radio-option">
+              <input type="radio" name="acompanamiento" value="si" id="acomp-si" aria-required="true" />
+              <span class="radio-box" aria-hidden="true"></span>
+              <span>Sí, deseo acompañamiento</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="acompanamiento" value="no" id="acomp-no" aria-required="true" />
+              <span class="radio-box" aria-hidden="true"></span>
+              <span>Solo dejar mi petición</span>
+            </label>
+          </div>
+        </div>
+
+        <!-- Teléfono (condicional) -->
+        <div class="form-group" id="phone-group" aria-live="polite">
+          <label class="form-label" for="prayer-telefono">
+            Número de WhatsApp <span class="required" aria-hidden="true">*</span>
+          </label>
+          <input type="tel" id="prayer-telefono" name="telefono" class="form-control" placeholder="+57 300 000 0000"
+            autocomplete="tel" aria-required="true" />
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-lg" id="prayer-submit"
+          style="width:100%;margin-top:var(--space-2)">
+          <svg class="ui-icon btn-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>
+          Enviar por WhatsApp
+        </button>
+
+      </form>
+    </div>
+  </div>
+
+  <!-- JS Module -->
+  <script type="module" src="./js/main.js"></script>
+
+  <!-- Partículas (inline para no bloquear) -->
+  <script>
+    (function () {
+      var container = document.getElementById('particles');
+      if (!container) return;
+      for (var i = 0; i < 15; i++) {
+        var p = document.createElement('div');
+        p.className = 'particle';
+        var size = Math.random() * 6 + 3;
+        p.style.cssText = [
+          'width:' + size + 'px',
+          'height:' + size + 'px',
+          'left:' + Math.random() * 100 + '%',
+          'bottom:' + (Math.random() * 20) + '%',
+          'animation-duration:' + (Math.random() * 15 + 10) + 's',
+          'animation-delay:' + (Math.random() * 8) + 's'
+        ].join(';');
+        container.appendChild(p);
+      }
+      // Footer oracion link
+      var footerLink = document.getElementById('footer-oracion-link');
+      if (footerLink) {
+        footerLink.addEventListener('click', function (e) {
+          e.preventDefault();
+          document.getElementById('btn-oracion').click();
+        });
+      }
+    })();
+  </script>
+
+</body>
+
+</html>

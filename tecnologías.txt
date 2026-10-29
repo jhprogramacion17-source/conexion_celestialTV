@@ -1,0 +1,45 @@
+tecnologías:
+frontend: CSS - javascript
+estructura de la pagina: HTML
+
+una pagina web para una radio religiosa adventista del séptimo dia que contendrá información de los servicios que brindará la radio, como por ejemplo: 
+-- alabanzas cristiana adventista
+-- predicas
+-- mensajes de la biblia 
+-- oracion por las personas
+-- transmisión directa por YouTube 
+
+3 direcciones en el menú principal
+ruta 1 la pagina principal
+ruta 2 TESTIMONIOS
+ruta 3 esperanza 
+
+
+
+descripción y contenido de la pagina
+nombre de la pagina: Conexión Celestial TV
+tendrá un encabezado de pagina con un menú que se divide en 3 parte, pagina principal, mensajes y esperanza y una imagen de portada 
+seguido vienen 3 botones centrales uno que me diga "Quiero una oracion" otro que diga "ver playlist" y otra "escuchar en vivo"
+
+el primer botón te dirige un formulario nuevo donde te pregunte el nombre, apellido, edad, estado civil, ciudad y la petición por la que se desea que oren después una opción donde el usuario elija si quiere tener acompañamiento en linea o no si solo desea dejar la petición, esas opciones son obligatorias. si decide acompañamiento se le desplegará la un nuevo campo de información para pedir el numero. después de haber enviado y llenado el formulario correctamente y sin errores de tipado, se enviará la información nueva por un mensaje de whatsapp bien estructurado a el siguiente numero +57 3044546454
+  
+el segundo botón  de "ver playlist" t dirige a un albun de Spotify con el siguiente link "https://open.spotify.com/playlist/5WqrbxedKYAr5PvnlwdMNz?si=9a3cba42d051494d" 
+
+el tercer botón de "escuchar en vivo te redireccionará" a la pagina de YouTube donde se estarán presentando los envivos en el siguiente link "https://www.youtube.com/@conexioncelestial7-n9k"
+
+seguido despues de hacer los botones viene una sección de información relevante de la pagina donde se explica que hacen de manera resumida y concisa manejando un excelente tipado y SEO y que diga los horarios de los envivos 
+
+lunes a viernes de 7am hasta 5pm 
+
+abajo una sección de programas, donde estará Alabanzas, testimonios, oracion y esperanza con una imagen alusiva 
+
+ y un footer profesional 
+
+
+
+la ruta de 2 TESTIMONIOS
+tendrá una portada, seguido una explicación donde en resumidas cuentas las personas puedes compartir con nosotros los testimonios de milagros que ha visto y que Dios ha hecho en su vida. abajo un pequeño formulario donde comparta el nombre del usuario, junto con su edad, y ciudad y abajo un cuadro bien diseñado donde el usuario pueda escribir el testimonio. y el botón debajo para enviar la información al mismo numero de whatsapp 
+
+la ruta 3 de esperanza donde le pasaré una base de datos no relacional en un archivo con una cantidad de 500 versículos bíblicos adventista que hablen de esperanza donde cambiará cada 3 días con su imagen
+
+abajo el footer de la pagina bien diseñada 

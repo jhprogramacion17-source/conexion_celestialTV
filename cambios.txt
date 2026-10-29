@@ -1,0 +1,8 @@
+cambios:
+evita usar emojis y remplazalos por logos bien definidos para que la pagina se vea profesional y no simplemente hecha por AI
+
+el icono de el pie de la pagina no constrasta con el fondo blanco. cámbialo por una cruz colo negro
+
+evita también usar muchos botones repetitivos y simples, solo lo necesario y puedes usar recuadros de diseño 
+
+quita la señal de scroll en hay en el centro de las paginas
