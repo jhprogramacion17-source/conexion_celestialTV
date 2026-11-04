@@ -432,6 +432,100 @@
   box-shadow: 0 0 0 3px hsla(0, 70%, 55%, 0.12);
 }
 
+/* Eliminar flechas nativas (spin buttons) de inputs numéricos */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+/* Custom Number Stepper */
+.number-stepper {
+  display: flex;
+  align-items: stretch;
+  background: var(--color-bg-card2);
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-md);
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast),
+    background var(--transition-fast);
+  overflow: hidden;
+  height: 48px;
+}
+
+.number-stepper:hover {
+  border-color: hsla(43, 89%, 45%, 0.4);
+}
+
+.number-stepper:focus-within {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px hsla(43, 89%, 45%, 0.15);
+  background: var(--color-bg-card);
+}
+
+.number-stepper.field--error {
+  border-color: var(--color-error);
+  box-shadow: 0 0 0 3px hsla(0, 70%, 55%, 0.12);
+}
+
+.stepper-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 46px;
+  min-width: 46px;
+  background: hsla(220, 25%, 14%, 0.75);
+  color: var(--color-primary-light);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background var(--transition-fast), color var(--transition-fast),
+    transform 0.1s ease, opacity var(--transition-fast);
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.stepper-btn:hover:not(:disabled) {
+  background: hsla(43, 89%, 45%, 0.22);
+  color: var(--color-primary);
+}
+
+.stepper-btn:active:not(:disabled) {
+  background: hsla(43, 89%, 45%, 0.4);
+  transform: scale(0.96);
+}
+
+.stepper-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.stepper-btn svg {
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  stroke-width: 2.5;
+  fill: none;
+  pointer-events: none;
+}
+
+.stepper-input {
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  text-align: center;
+  padding: var(--space-2) var(--space-3) !important;
+  flex: 1;
+  min-width: 0;
+  font-weight: 700;
+  font-size: var(--text-lg);
+  color: var(--color-text);
+}
+
 textarea.form-control {
   resize: vertical;
   min-height: 140px;

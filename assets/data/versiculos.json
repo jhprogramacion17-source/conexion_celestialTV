@@ -3,7 +3,7 @@
     "nombreProyecto": "Conexión Celestial TV",
     "iglesia": "Iglesia Adventista del Séptimo Día",
     "tipoBaseDatos": "NoSQL Document Store (JSON)",
-    "totalVersiculos": 500,
+    "totalVersiculos": 711,
     "frecuenciaRotacionDias": 3,
     "versionBiblia": "Reina-Valera 1960 (RVR1960)"
   },
@@ -2010,7 +2010,7 @@
     },
     {
       "id": 251,
-      "cita": "Jeremías 29:11 (Lectura de Esperanza #251)",
+      "cita": "Jeremías 29:11",
       "texto": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Paz y Consuelo",
@@ -2018,7 +2018,7 @@
     },
     {
       "id": 252,
-      "cita": "Apocalipsis 21:4 (Lectura de Esperanza #252)",
+      "cita": "Apocalipsis 21:4",
       "texto": "Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Fe y Confianza",
@@ -2026,7 +2026,7 @@
     },
     {
       "id": 253,
-      "cita": "Isaías 41:10 (Lectura de Esperanza #253)",
+      "cita": "Isaías 41:10",
       "texto": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Sanidad y Fortaleza",
@@ -2034,7 +2034,7 @@
     },
     {
       "id": 254,
-      "cita": "Juan 14:1-3 (Lectura de Esperanza #254)",
+      "cita": "Juan 14:1-3",
       "texto": "No se turbe vuestro corazón; creéis en Dios, creed también en mí. En la casa de mi Padre muchas moradas hay; si así no fuera, yo os lo hubiera dicho; voy, pues, a preparar lugar para vosotros. Y si me fuere y os preparare lugar, vendré otra vez, y os tomaré a mí mismo, para que donde yo estoy, vosotros también estéis.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Amor de Dios",
@@ -2042,7 +2042,7 @@
     },
     {
       "id": 255,
-      "cita": "Romanos 15:13 (Lectura de Esperanza #255)",
+      "cita": "Romanos 15:13",
       "texto": "Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Oración y Respuesta",
@@ -2050,7 +2050,7 @@
     },
     {
       "id": 256,
-      "cita": "Salmos 23:1-2 (Lectura de Esperanza #256)",
+      "cita": "Salmos 23:1-2",
       "texto": "Jehová es mi pastor; nada me faltará. En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Refugio Celestial",
@@ -2058,7 +2058,7 @@
     },
     {
       "id": 257,
-      "cita": "Filipenses 4:6-7 (Lectura de Esperanza #257)",
+      "cita": "Filipenses 4:6-7",
       "texto": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias. Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Esperanza y Promesas",
@@ -2066,7 +2066,7 @@
     },
     {
       "id": 258,
-      "cita": "Filipenses 4:13 (Lectura de Esperanza #258)",
+      "cita": "Filipenses 4:13",
       "texto": "Todo lo puedo en Cristo que me fortalece.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Segunda Venida de Cristo",
@@ -2074,7 +2074,7 @@
     },
     {
       "id": 259,
-      "cita": "Tito 2:13 (Lectura de Esperanza #259)",
+      "cita": "Tito 2:13",
       "texto": "Aguardando la esperanza bienaventurada y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Paz y Consuelo",
@@ -2082,7 +2082,7 @@
     },
     {
       "id": 260,
-      "cita": "1 Tesalonicenses 4:16-17 (Lectura de Esperanza #260)",
+      "cita": "1 Tesalonicenses 4:16-17",
       "texto": "Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Fe y Confianza",
@@ -2090,7 +2090,7 @@
     },
     {
       "id": 261,
-      "cita": "Salmos 46:1 (Lectura de Esperanza #261)",
+      "cita": "Salmos 46:1",
       "texto": "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Sanidad y Fortaleza",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": 262,
-      "cita": "Isaías 40:31 (Lectura de Esperanza #262)",
+      "cita": "Isaías 40:31",
       "texto": "Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Amor de Dios",
@@ -2106,7 +2106,7 @@
     },
     {
       "id": 263,
-      "cita": "Mateo 11:28 (Lectura de Esperanza #263)",
+      "cita": "Mateo 11:28",
       "texto": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Oración y Respuesta",
@@ -2114,7 +2114,7 @@
     },
     {
       "id": 264,
-      "cita": "Romanos 8:28 (Lectura de Esperanza #264)",
+      "cita": "Romanos 8:28",
       "texto": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Refugio Celestial",
@@ -2122,7 +2122,7 @@
     },
     {
       "id": 265,
-      "cita": "Romanos 8:38-39 (Lectura de Esperanza #265)",
+      "cita": "Romanos 8:38-39",
       "texto": "Por lo cual estoy seguro de que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir, ni lo alto, ni lo profundo, ni ninguna otra cosa creada nos podrá separar del amor de Dios, que es en Cristo Jesús Señor nuestro.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Esperanza y Promesas",
@@ -2130,7 +2130,7 @@
     },
     {
       "id": 266,
-      "cita": "Josué 1:9 (Lectura de Esperanza #266)",
+      "cita": "Josué 1:9",
       "texto": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Segunda Venida de Cristo",
@@ -2138,7 +2138,7 @@
     },
     {
       "id": 267,
-      "cita": "Salmos 121:1-2 (Lectura de Esperanza #267)",
+      "cita": "Salmos 121:1-2",
       "texto": "Alzaré mis ojos a los montes; ¿De dónde vendrá mi socorro? Mi socorro viene de Jehová, que hizo los cielos y la tierra.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Paz y Consuelo",
@@ -2146,7 +2146,7 @@
     },
     {
       "id": 268,
-      "cita": "Hebreos 11:1 (Lectura de Esperanza #268)",
+      "cita": "Hebreos 11:1",
       "texto": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Fe y Confianza",
@@ -2154,7 +2154,7 @@
     },
     {
       "id": 269,
-      "cita": "Lamentaciones 3:22-23 (Lectura de Esperanza #269)",
+      "cita": "Lamentaciones 3:22-23",
       "texto": "Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Sanidad y Fortaleza",
@@ -2162,7 +2162,7 @@
     },
     {
       "id": 270,
-      "cita": "Apocalipsis 14:7 (Lectura de Esperanza #270)",
+      "cita": "Apocalipsis 14:7",
       "texto": "Temed a Dios, y dadle gloria, porque la hora de su juicio ha llegado; y adorad a aquel que hizo el cielo y la tierra, el mar y las fuentes de las aguas.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Amor de Dios",
@@ -2170,7 +2170,7 @@
     },
     {
       "id": 271,
-      "cita": "Apocalipsis 14:12 (Lectura de Esperanza #271)",
+      "cita": "Apocalipsis 14:12",
       "texto": "Aquí está la paciencia de los santos, los que guardan los mandamientos de Dios y la fe de Jesús.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Oración y Respuesta",
@@ -2178,7 +2178,7 @@
     },
     {
       "id": 272,
-      "cita": "Éxodo 20:8-11 (Lectura de Esperanza #272)",
+      "cita": "Éxodo 20:8-11",
       "texto": "Acuérdate del día de reposo para santificarlo. Seis días trabajarás, y harás toda tu obra; mas el séptimo día es reposo para Jehová tu Dios.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Refugio Celestial",
@@ -2186,7 +2186,7 @@
     },
     {
       "id": 273,
-      "cita": "3 Juan 1:2 (Lectura de Esperanza #273)",
+      "cita": "3 Juan 1:2",
       "texto": "Amado, yo deseo que tú seas prosperado en todas las cosas, y que tengas salud, así como prospera tu alma.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Esperanza y Promesas",
@@ -2194,7 +2194,7 @@
     },
     {
       "id": 274,
-      "cita": "Salmos 91:1-2 (Lectura de Esperanza #274)",
+      "cita": "Salmos 91:1-2",
       "texto": "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente. Diré yo a Jehová: Esperanza mía, y castillo mío; mi Dios, en quién confiaré.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Segunda Venida de Cristo",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": 275,
-      "cita": "Proverbios 3:5-6 (Lectura de Esperanza #275)",
+      "cita": "Proverbios 3:5-6",
       "texto": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Paz y Consuelo",
@@ -2210,7 +2210,7 @@
     },
     {
       "id": 276,
-      "cita": "Juan 3:16 (Lectura de Esperanza #276)",
+      "cita": "Juan 3:16",
       "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Fe y Confianza",
@@ -2218,7 +2218,7 @@
     },
     {
       "id": 277,
-      "cita": "Salmos 27:1 (Lectura de Esperanza #277)",
+      "cita": "Salmos 27:1",
       "texto": "Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Sanidad y Fortaleza",
@@ -2226,7 +2226,7 @@
     },
     {
       "id": 278,
-      "cita": "Salmos 34:18 (Lectura de Esperanza #278)",
+      "cita": "Salmos 34:18",
       "texto": "Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Amor de Dios",
@@ -2234,7 +2234,7 @@
     },
     {
       "id": 279,
-      "cita": "Salmos 37:4-5 (Lectura de Esperanza #279)",
+      "cita": "Salmos 37:4-5",
       "texto": "Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón. Encomienda a Jehová tu camino, y confía en él; y él hará.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Oración y Respuesta",
@@ -2242,7 +2242,7 @@
     },
     {
       "id": 280,
-      "cita": "Isaías 26:3 (Lectura de Esperanza #280)",
+      "cita": "Isaías 26:3",
       "texto": "Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti ha confiado.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Refugio Celestial",
@@ -2250,7 +2250,7 @@
     },
     {
       "id": 281,
-      "cita": "Mateo 28:20 (Lectura de Esperanza #281)",
+      "cita": "Mateo 28:20",
       "texto": "Y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Esperanza y Promesas",
@@ -2258,7 +2258,7 @@
     },
     {
       "id": 282,
-      "cita": "Juan 16:33 (Lectura de Esperanza #282)",
+      "cita": "Juan 16:33",
       "texto": "Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Segunda Venida de Cristo",
@@ -2266,7 +2266,7 @@
     },
     {
       "id": 283,
-      "cita": "2 Corintios 4:17-18 (Lectura de Esperanza #283)",
+      "cita": "2 Corintios 4:17-18",
       "texto": "Porque esta leve tribulación momentánea produce en nosotros un cada vez más excelente y eterno peso de gloria; no mirando nosotros las cosas que se ven, sino las que no se ven.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Paz y Consuelo",
@@ -2274,7 +2274,7 @@
     },
     {
       "id": 284,
-      "cita": "Hebreos 10:23 (Lectura de Esperanza #284)",
+      "cita": "Hebreos 10:23",
       "texto": "Mantengamos firme, sin fluctuar, la profesión de nuestra esperanza, porque fiel es el que prometió.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Fe y Confianza",
@@ -2282,7 +2282,7 @@
     },
     {
       "id": 285,
-      "cita": "1 Pedro 5:7 (Lectura de Esperanza #285)",
+      "cita": "1 Pedro 5:7",
       "texto": "Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Sanidad y Fortaleza",
@@ -2290,7 +2290,7 @@
     },
     {
       "id": 286,
-      "cita": "Apocalipsis 22:12 (Lectura de Esperanza #286)",
+      "cita": "Apocalipsis 22:12",
       "texto": "He aquí yo vengo pronto, y mi galardón conmigo, para recompensar a cada uno según sea su obra.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Amor de Dios",
@@ -2298,7 +2298,7 @@
     },
     {
       "id": 287,
-      "cita": "Apocalipsis 22:20 (Lectura de Esperanza #287)",
+      "cita": "Apocalipsis 22:20",
       "texto": "El que da testimonio de estas cosas dice: Ciertamente vengo en breve. Amén; sí, ven, Señor Jesús.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Oración y Respuesta",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": 288,
-      "cita": "Nahúm 1:7 (Lectura de Esperanza #288)",
+      "cita": "Nahúm 1:7",
       "texto": "Jehová es bueno, fortaleza en el día de la angustia; y conoce a los que en él confían.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Refugio Celestial",
@@ -2314,7 +2314,7 @@
     },
     {
       "id": 289,
-      "cita": "Sofonías 3:17 (Lectura de Esperanza #289)",
+      "cita": "Sofonías 3:17",
       "texto": "Jehová está en medio de ti, poderoso, él salvará; se gozará sobre ti con alegría, callará de amor, se regocijará sobre ti con cánticos.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Esperanza y Promesas",
@@ -2322,7 +2322,7 @@
     },
     {
       "id": 290,
-      "cita": "Miqueas 7:7 (Lectura de Esperanza #290)",
+      "cita": "Miqueas 7:7",
       "texto": "Mas yo a Jehová miraré, esperaré al Dios de mi salvación; el Dios mío me oirá.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Segunda Venida de Cristo",
@@ -2330,7 +2330,7 @@
     },
     {
       "id": 291,
-      "cita": "Habacuc 3:17-18 (Lectura de Esperanza #291)",
+      "cita": "Habacuc 3:17-18",
       "texto": "Aunque la higuera no florezca, ni en las vides haya frutos... con todo, yo me alegraré en Jehová, y me gozaré en el Dios de mi salvación.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Paz y Consuelo",
@@ -2338,7 +2338,7 @@
     },
     {
       "id": 292,
-      "cita": "Zacarías 4:6 (Lectura de Esperanza #292)",
+      "cita": "Zacarías 4:6",
       "texto": "No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Fe y Confianza",
@@ -2346,7 +2346,7 @@
     },
     {
       "id": 293,
-      "cita": "Malaquías 4:2 (Lectura de Esperanza #293)",
+      "cita": "Malaquías 4:2",
       "texto": "Mas a vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salvación.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Sanidad y Fortaleza",
@@ -2354,7 +2354,7 @@
     },
     {
       "id": 294,
-      "cita": "Salmos 119:105 (Lectura de Esperanza #294)",
+      "cita": "Salmos 119:105",
       "texto": "Lámpara es a mis pies tu palabra, y lumbrera a mi camino.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Amor de Dios",
@@ -2362,7 +2362,7 @@
     },
     {
       "id": 295,
-      "cita": "Salmos 119:114 (Lectura de Esperanza #295)",
+      "cita": "Salmos 119:114",
       "texto": "Mi escondedero y mi escudo eres tú; en tu palabra he esperado.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Oración y Respuesta",
@@ -2370,7 +2370,7 @@
     },
     {
       "id": 296,
-      "cita": "Salmos 130:5 (Lectura de Esperanza #296)",
+      "cita": "Salmos 130:5",
       "texto": "Esperé yo a Jehová, esperó mi alma; en su palabra he esperado.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Refugio Celestial",
@@ -2378,7 +2378,7 @@
     },
     {
       "id": 297,
-      "cita": "Salmos 147:3 (Lectura de Esperanza #297)",
+      "cita": "Salmos 147:3",
       "texto": "Él sana a los quebrantados de corazón, y venda sus heridas.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Esperanza y Promesas",
@@ -2386,7 +2386,7 @@
     },
     {
       "id": 298,
-      "cita": "Isaías 43:2 (Lectura de Esperanza #298)",
+      "cita": "Isaías 43:2",
       "texto": "Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Segunda Venida de Cristo",
@@ -2394,7 +2394,7 @@
     },
     {
       "id": 299,
-      "cita": "Isaías 54:10 (Lectura de Esperanza #299)",
+      "cita": "Isaías 54:10",
       "texto": "Porque los montes se moverán, y los collados temblarán, pero no se apartará de ti mi misericordia, ni el pacto de mi paz se quebrantará, dijo Jehová, el que tiene misericordia de ti.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Paz y Consuelo",
@@ -2402,7 +2402,7 @@
     },
     {
       "id": 300,
-      "cita": "Isaías 65:17 (Lectura de Esperanza #300)",
+      "cita": "Isaías 65:17",
       "texto": "Porque he aquí que yo crearé nuevos cielos y nueva tierra; y de lo primero no habrá memoria, ni más vendrá al pensamiento.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Fe y Confianza",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": 301,
-      "cita": "Salmos 3:3 (Lectura de Esperanza #301)",
+      "cita": "Salmos 3:3",
       "texto": "Mas tú, Jehová, eres escudo alrededor de mí; mi gloria, y el que levanta mi cabeza.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Sanidad y Fortaleza",
@@ -2418,7 +2418,7 @@
     },
     {
       "id": 302,
-      "cita": "Salmos 4:8 (Lectura de Esperanza #302)",
+      "cita": "Salmos 4:8",
       "texto": "En paz me acostaré, y asimismo dormiré; porque solo tú, Jehová, me haces vivir confiado.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Amor de Dios",
@@ -2426,7 +2426,7 @@
     },
     {
       "id": 303,
-      "cita": "Salmos 5:3 (Lectura de Esperanza #303)",
+      "cita": "Salmos 5:3",
       "texto": "Oh Jehová, de mañana oirás mi voz; de mañana me presentaré delante de ti, y esperaré.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Oración y Respuesta",
@@ -2434,7 +2434,7 @@
     },
     {
       "id": 304,
-      "cita": "Salmos 9:9 (Lectura de Esperanza #304)",
+      "cita": "Salmos 9:9",
       "texto": "Jehová será refugio del pobre, refugio para el tiempo de angustia.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Refugio Celestial",
@@ -2442,7 +2442,7 @@
     },
     {
       "id": 305,
-      "cita": "Salmos 16:8 (Lectura de Esperanza #305)",
+      "cita": "Salmos 16:8",
       "texto": "A Jehová he puesto siempre delante de mí; porque está a mi diestra, no seré conmovido.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Esperanza y Promesas",
@@ -2450,7 +2450,7 @@
     },
     {
       "id": 306,
-      "cita": "Salmos 16:11 (Lectura de Esperanza #306)",
+      "cita": "Salmos 16:11",
       "texto": "Me mostrarás la senda de la vida; en tu presencia hay plenitud de gozo; delicias a tu diestra para siempre.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Segunda Venida de Cristo",
@@ -2458,7 +2458,7 @@
     },
     {
       "id": 307,
-      "cita": "Salmos 18:2 (Lectura de Esperanza #307)",
+      "cita": "Salmos 18:2",
       "texto": "Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fortaleza mía, en él confiaré.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Paz y Consuelo",
@@ -2466,7 +2466,7 @@
     },
     {
       "id": 308,
-      "cita": "Salmos 19:14 (Lectura de Esperanza #308)",
+      "cita": "Salmos 19:14",
       "texto": "Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti, oh Jehová, roca mía, y redentor mío.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Fe y Confianza",
@@ -2474,7 +2474,7 @@
     },
     {
       "id": 309,
-      "cita": "Salmos 20:4 (Lectura de Esperanza #309)",
+      "cita": "Salmos 20:4",
       "texto": "Te dé conforme al deseo de tu corazón, y cumpla todo tu consejo.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Sanidad y Fortaleza",
@@ -2482,7 +2482,7 @@
     },
     {
       "id": 310,
-      "cita": "Salmos 23:4 (Lectura de Esperanza #310)",
+      "cita": "Salmos 23:4",
       "texto": "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Amor de Dios",
@@ -2490,7 +2490,7 @@
     },
     {
       "id": 311,
-      "cita": "Salmos 23:6 (Lectura de Esperanza #311)",
+      "cita": "Salmos 23:6",
       "texto": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida, y en la casa de Jehová moraré por largos días.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Oración y Respuesta",
@@ -2498,7 +2498,7 @@
     },
     {
       "id": 312,
-      "cita": "Salmos 25:5 (Lectura de Esperanza #312)",
+      "cita": "Salmos 25:5",
       "texto": "Encamíname en tu verdad, y enséñame, porque tú eres el Dios de mi salvación; en ti he esperado todo el día.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Refugio Celestial",
@@ -2506,7 +2506,7 @@
     },
     {
       "id": 313,
-      "cita": "Salmos 27:14 (Lectura de Esperanza #313)",
+      "cita": "Salmos 27:14",
       "texto": "Aguarda a Jehová; esfuérzate, y aliéntese tu corazón; sí, espera a Jehová.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Esperanza y Promesas",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": 314,
-      "cita": "Salmos 28:7 (Lectura de Esperanza #314)",
+      "cita": "Salmos 28:7",
       "texto": "Jehová es mi fortaleza y mi escudo; en él confió mi corazón, y fui ayudado.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Segunda Venida de Cristo",
@@ -2522,7 +2522,7 @@
     },
     {
       "id": 315,
-      "cita": "Salmos 29:11 (Lectura de Esperanza #315)",
+      "cita": "Salmos 29:11",
       "texto": "Jehová dará poder a su pueblo; Jehová bendecirá a su pueblo con paz.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Paz y Consuelo",
@@ -2530,7 +2530,7 @@
     },
     {
       "id": 316,
-      "cita": "Salmos 30:5 (Lectura de Esperanza #316)",
+      "cita": "Salmos 30:5",
       "texto": "Porque un momento será su ira, pero su favor dura toda la vida. Por la noche durará el lloro, y a la mañana vendrá la alegría.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Fe y Confianza",
@@ -2538,7 +2538,7 @@
     },
     {
       "id": 317,
-      "cita": "Salmos 31:24 (Lectura de Esperanza #317)",
+      "cita": "Salmos 31:24",
       "texto": "Esforzaos todos vosotros los que esperáis en Jehová, y tome aliento vuestro corazón.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Sanidad y Fortaleza",
@@ -2546,7 +2546,7 @@
     },
     {
       "id": 318,
-      "cita": "Salmos 32:8 (Lectura de Esperanza #318)",
+      "cita": "Salmos 32:8",
       "texto": "Te haré entender, y te enseñaré el camino en que debes andar; sobre ti fijaré mis ojos.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Amor de Dios",
@@ -2554,7 +2554,7 @@
     },
     {
       "id": 319,
-      "cita": "Salmos 33:18 (Lectura de Esperanza #319)",
+      "cita": "Salmos 33:18",
       "texto": "He aquí el ojo de Jehová sobre los que le temen, sobre los que esperan en su misericordia.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Oración y Respuesta",
@@ -2562,7 +2562,7 @@
     },
     {
       "id": 320,
-      "cita": "Salmos 33:20 (Lectura de Esperanza #320)",
+      "cita": "Salmos 33:20",
       "texto": "Nuestra alma espera a Jehová; nuestra ayuda y nuestro escudo es él.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Refugio Celestial",
@@ -2570,7 +2570,7 @@
     },
     {
       "id": 321,
-      "cita": "Salmos 34:4 (Lectura de Esperanza #321)",
+      "cita": "Salmos 34:4",
       "texto": "Busqué a Jehová, y él me oyó, y me libró de todos mis temores.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Esperanza y Promesas",
@@ -2578,7 +2578,7 @@
     },
     {
       "id": 322,
-      "cita": "Salmos 34:7 (Lectura de Esperanza #322)",
+      "cita": "Salmos 34:7",
       "texto": "El ángel de Jehová acampa alrededor de los que le temen, y los defiende.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Segunda Venida de Cristo",
@@ -2586,7 +2586,7 @@
     },
     {
       "id": 323,
-      "cita": "Salmos 34:8 (Lectura de Esperanza #323)",
+      "cita": "Salmos 34:8",
       "texto": "Gustad, y ved que es bueno Jehová; dichoso el hombre que confía en él.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Paz y Consuelo",
@@ -2594,7 +2594,7 @@
     },
     {
       "id": 324,
-      "cita": "Salmos 34:19 (Lectura de Esperanza #324)",
+      "cita": "Salmos 34:19",
       "texto": "Muchas son las aflicciones del justo, pero de todas ellas le librará Jehová.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Fe y Confianza",
@@ -2602,7 +2602,7 @@
     },
     {
       "id": 325,
-      "cita": "Salmos 36:7 (Lectura de Esperanza #325)",
+      "cita": "Salmos 36:7",
       "texto": "¡Cuán preciosa, oh Dios, es tu misericordia! Por eso los hijos de los hombres se amparan bajo la sombra de tus alas.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Sanidad y Fortaleza",
@@ -2610,7 +2610,7 @@
     },
     {
       "id": 326,
-      "cita": "Salmos 37:7 (Lectura de Esperanza #326)",
+      "cita": "Salmos 37:7",
       "texto": "Guarda silencio ante Jehová, y espera en él.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Amor de Dios",
@@ -2618,7 +2618,7 @@
     },
     {
       "id": 327,
-      "cita": "Salmos 37:23-24 (Lectura de Esperanza #327)",
+      "cita": "Salmos 37:23-24",
       "texto": "Por Jehová son ordenados los pasos del hombre, y él aprueba su camino. Cuando el hombre cayere, no quedará postrado, porque Jehová sostiene su mano.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Oración y Respuesta",
@@ -2626,7 +2626,7 @@
     },
     {
       "id": 328,
-      "cita": "Salmos 38:15 (Lectura de Esperanza #328)",
+      "cita": "Salmos 38:15",
       "texto": "Porque en ti, oh Jehová, he esperado; tú responderás, Jehová Dios mío.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Refugio Celestial",
@@ -2634,7 +2634,7 @@
     },
     {
       "id": 329,
-      "cita": "Salmos 39:7 (Lectura de Esperanza #329)",
+      "cita": "Salmos 39:7",
       "texto": "Y ahora, Señor, ¿qué esperaré? Mi esperanza está en ti.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Esperanza y Promesas",
@@ -2642,7 +2642,7 @@
     },
     {
       "id": 330,
-      "cita": "Salmos 40:1 (Lectura de Esperanza #330)",
+      "cita": "Salmos 40:1",
       "texto": "Pacientemente esperé a Jehová, y se inclinó a mí, y oyó mi clamor.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Segunda Venida de Cristo",
@@ -2650,7 +2650,7 @@
     },
     {
       "id": 331,
-      "cita": "Salmos 42:5 (Lectura de Esperanza #331)",
+      "cita": "Salmos 42:5",
       "texto": "¿Por qué te abates, oh alma mía, y te turbas dentro de mí? Espera en Dios; porque aún he de alabarle, salvación mía y Dios mío.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Paz y Consuelo",
@@ -2658,7 +2658,7 @@
     },
     {
       "id": 332,
-      "cita": "Salmos 42:11 (Lectura de Esperanza #332)",
+      "cita": "Salmos 42:11",
       "texto": "Espera en Dios; porque aún he de alabarle, salvación mía y Dios mío.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Fe y Confianza",
@@ -2666,7 +2666,7 @@
     },
     {
       "id": 333,
-      "cita": "Salmos 46:10 (Lectura de Esperanza #333)",
+      "cita": "Salmos 46:10",
       "texto": "Estad quietos, y conoced que yo soy Dios.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Sanidad y Fortaleza",
@@ -2674,7 +2674,7 @@
     },
     {
       "id": 334,
-      "cita": "Salmos 55:22 (Lectura de Esperanza #334)",
+      "cita": "Salmos 55:22",
       "texto": "Echa sobre Jehová tu carga, y él te sustentará; no dejará para siempre caído al justo.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Amor de Dios",
@@ -2682,7 +2682,7 @@
     },
     {
       "id": 335,
-      "cita": "Salmos 56:3 (Lectura de Esperanza #335)",
+      "cita": "Salmos 56:3",
       "texto": "En el día que temo, yo en ti confío.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Oración y Respuesta",
@@ -2690,7 +2690,7 @@
     },
     {
       "id": 336,
-      "cita": "Salmos 62:1 (Lectura de Esperanza #336)",
+      "cita": "Salmos 62:1",
       "texto": "En Dios solamente está acallada mi alma; de él viene mi salvación.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Refugio Celestial",
@@ -2698,7 +2698,7 @@
     },
     {
       "id": 337,
-      "cita": "Salmos 62:5 (Lectura de Esperanza #337)",
+      "cita": "Salmos 62:5",
       "texto": "Alma mía, en Dios solamente reposa, porque de él es mi esperanza.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Esperanza y Promesas",
@@ -2706,7 +2706,7 @@
     },
     {
       "id": 338,
-      "cita": "Salmos 63:1 (Lectura de Esperanza #338)",
+      "cita": "Salmos 63:1",
       "texto": "Dios, Dios mío eres tú; de madrugada te buscaré; mi alma tiene sed de ti.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Segunda Venida de Cristo",
@@ -2714,7 +2714,7 @@
     },
     {
       "id": 339,
-      "cita": "Salmos 68:19 (Lectura de Esperanza #339)",
+      "cita": "Salmos 68:19",
       "texto": "Bendito el Señor; cada día nos colma de beneficios el Dios de nuestra salvación.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Paz y Consuelo",
@@ -2722,7 +2722,7 @@
     },
     {
       "id": 340,
-      "cita": "Salmos 71:5 (Lectura de Esperanza #340)",
+      "cita": "Salmos 71:5",
       "texto": "Porque tú, oh Señor Jehová, eres mi esperanza, seguridad mía desde mi juventud.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Fe y Confianza",
@@ -2730,7 +2730,7 @@
     },
     {
       "id": 341,
-      "cita": "Salmos 71:14 (Lectura de Esperanza #341)",
+      "cita": "Salmos 71:14",
       "texto": "Mas yo siempre esperaré, y te alabaré más y más.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Sanidad y Fortaleza",
@@ -2738,7 +2738,7 @@
     },
     {
       "id": 342,
-      "cita": "Salmos 73:26 (Lectura de Esperanza #342)",
+      "cita": "Salmos 73:26",
       "texto": "Mi carne y mi corazón desfallecen; mas la roca de mi corazón y mi porción es Dios para siempre.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Amor de Dios",
@@ -2746,7 +2746,7 @@
     },
     {
       "id": 343,
-      "cita": "Salmos 84:11 (Lectura de Esperanza #343)",
+      "cita": "Salmos 84:11",
       "texto": "Porque sol y escudo es Jehová Dios; gracia y gloria dará Jehová. No quitará el bien a los que andan en integridad.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Oración y Respuesta",
@@ -2754,7 +2754,7 @@
     },
     {
       "id": 344,
-      "cita": "Salmos 86:5 (Lectura de Esperanza #344)",
+      "cita": "Salmos 86:5",
       "texto": "Porque tú, Señor, eres bueno y perdonador, y grande en misericordia para con todos los que te invocan.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Refugio Celestial",
@@ -2762,7 +2762,7 @@
     },
     {
       "id": 345,
-      "cita": "Salmos 91:4 (Lectura de Esperanza #345)",
+      "cita": "Salmos 91:4",
       "texto": "Con sus plumas te cubrirá, y debajo de sus alas estarás seguro; escudo y adarga es su verdad.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Esperanza y Promesas",
@@ -2770,7 +2770,7 @@
     },
     {
       "id": 346,
-      "cita": "Salmos 91:11 (Lectura de Esperanza #346)",
+      "cita": "Salmos 91:11",
       "texto": "Pues a sus ángeles mandará acerca de ti, que te guarden en todos tus caminos.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Segunda Venida de Cristo",
@@ -2778,7 +2778,7 @@
     },
     {
       "id": 347,
-      "cita": "Salmos 94:19 (Lectura de Esperanza #347)",
+      "cita": "Salmos 94:19",
       "texto": "En la multitud de mis pensamientos dentro de mí, tus consolaciones alegraban mi alma.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Paz y Consuelo",
@@ -2786,7 +2786,7 @@
     },
     {
       "id": 348,
-      "cita": "Salmos 100:5 (Lectura de Esperanza #348)",
+      "cita": "Salmos 100:5",
       "texto": "Porque Jehová es bueno; para siempre es su misericordia, y su verdad por todas las generaciones.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Fe y Confianza",
@@ -2794,7 +2794,7 @@
     },
     {
       "id": 349,
-      "cita": "Salmos 103:2-3 (Lectura de Esperanza #349)",
+      "cita": "Salmos 103:2-3",
       "texto": "Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios. Él es quien perdona todas tus iniquidades, el que sana todas tus dolencias.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Sanidad y Fortaleza",
@@ -2802,7 +2802,7 @@
     },
     {
       "id": 350,
-      "cita": "Salmos 103:13 (Lectura de Esperanza #350)",
+      "cita": "Salmos 103:13",
       "texto": "Como el padre se compadece de los hijos, se compadece Jehová de los que le temen.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Amor de Dios",
@@ -2810,7 +2810,7 @@
     },
     {
       "id": 351,
-      "cita": "Isaías 12:2 (Lectura de Esperanza #351)",
+      "cita": "Isaías 12:2",
       "texto": "He aquí Dios es salvación mía; me aseguraré y no temeré; porque mi fortaleza y mi canción es JAH Jehová, quien ha sido salvación para mí.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Oración y Respuesta",
@@ -2818,7 +2818,7 @@
     },
     {
       "id": 352,
-      "cita": "Isaías 30:15 (Lectura de Esperanza #352)",
+      "cita": "Isaías 30:15",
       "texto": "En descanso y en reposo seréis salvos; en quietud y en confianza será vuestra fortaleza.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Refugio Celestial",
@@ -2826,7 +2826,7 @@
     },
     {
       "id": 353,
-      "cita": "Isaías 33:2 (Lectura de Esperanza #353)",
+      "cita": "Isaías 33:2",
       "texto": "Oh Jehová, ten misericordia de nosotros, a ti hemos esperado; tú, brazo de ellos en la mañana, sé también nuestra salvación en tiempo de la tribulación.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Esperanza y Promesas",
@@ -2834,7 +2834,7 @@
     },
     {
       "id": 354,
-      "cita": "Isaías 40:29 (Lectura de Esperanza #354)",
+      "cita": "Isaías 40:29",
       "texto": "Él da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Segunda Venida de Cristo",
@@ -2842,7 +2842,7 @@
     },
     {
       "id": 355,
-      "cita": "Isaías 41:13 (Lectura de Esperanza #355)",
+      "cita": "Isaías 41:13",
       "texto": "Porque yo Jehová soy tu Dios, quien te sostiene de tu mano derecha, y te dice: No temas, yo te ayudo.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Paz y Consuelo",
@@ -2850,7 +2850,7 @@
     },
     {
       "id": 356,
-      "cita": "Isaías 43:1 (Lectura de Esperanza #356)",
+      "cita": "Isaías 43:1",
       "texto": "No temas, porque yo te redimí; te puse nombre, mío eres tú.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Fe y Confianza",
@@ -2858,7 +2858,7 @@
     },
     {
       "id": 357,
-      "cita": "Isaías 43:19 (Lectura de Esperanza #357)",
+      "cita": "Isaías 43:19",
       "texto": "He aquí que yo hago cosa nueva; pronto saldrá a luz; ¿no la conoceréis? Otra vez abriré camino en el desierto, y ríos en la soledad.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Sanidad y Fortaleza",
@@ -2866,7 +2866,7 @@
     },
     {
       "id": 358,
-      "cita": "Isaías 49:15 (Lectura de Esperanza #358)",
+      "cita": "Isaías 49:15",
       "texto": "¿Se olvidará la mujer de lo que dio a luz, para dejar de compadecerse del hijo de su vientre? Aunque olvide ella, yo nunca me olvidaré de ti.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Amor de Dios",
@@ -2874,7 +2874,7 @@
     },
     {
       "id": 359,
-      "cita": "Isaías 53:5 (Lectura de Esperanza #359)",
+      "cita": "Isaías 53:5",
       "texto": "Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Oración y Respuesta",
@@ -2882,7 +2882,7 @@
     },
     {
       "id": 360,
-      "cita": "Isaías 55:6 (Lectura de Esperanza #360)",
+      "cita": "Isaías 55:6",
       "texto": "Buscad a Jehová mientras puede ser hallado, llamadle en tanto que está cercano.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Refugio Celestial",
@@ -2890,7 +2890,7 @@
     },
     {
       "id": 361,
-      "cita": "Isaías 58:11 (Lectura de Esperanza #361)",
+      "cita": "Isaías 58:11",
       "texto": "Jehová te pastoreará siempre, y en las sequías saciará tu alma, y dará vigor a tus huesos.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Esperanza y Promesas",
@@ -2898,7 +2898,7 @@
     },
     {
       "id": 362,
-      "cita": "Isaías 60:1 (Lectura de Esperanza #362)",
+      "cita": "Isaías 60:1",
       "texto": "Levántate, resplandece; porque ha venido tu luz, y la gloria de Jehová ha nacido sobre ti.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Segunda Venida de Cristo",
@@ -2906,7 +2906,7 @@
     },
     {
       "id": 363,
-      "cita": "Jeremías 17:7 (Lectura de Esperanza #363)",
+      "cita": "Jeremías 17:7",
       "texto": "Bendito el varón que confía en Jehová, y cuya confianza es Jehová.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Paz y Consuelo",
@@ -2914,7 +2914,7 @@
     },
     {
       "id": 364,
-      "cita": "Jeremías 31:3 (Lectura de Esperanza #364)",
+      "cita": "Jeremías 31:3",
       "texto": "Jehová se manifestó a mí hace ya mucho tiempo, diciendo: Con amor eterno te he amado; por tanto, te prolongué mi misericordia.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Fe y Confianza",
@@ -2922,7 +2922,7 @@
     },
     {
       "id": 365,
-      "cita": "Jeremías 33:3 (Lectura de Esperanza #365)",
+      "cita": "Jeremías 33:3",
       "texto": "Clama a mí, y yo te responderé, y te enseñaré cosas grandes y ocultas que tú no conoces.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Sanidad y Fortaleza",
@@ -2930,7 +2930,7 @@
     },
     {
       "id": 366,
-      "cita": "Mateo 5:8 (Lectura de Esperanza #366)",
+      "cita": "Mateo 5:8",
       "texto": "Bienaventurados los de limpio corazón, porque ellos verán a Dios.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Amor de Dios",
@@ -2938,7 +2938,7 @@
     },
     {
       "id": 367,
-      "cita": "Mateo 6:33 (Lectura de Esperanza #367)",
+      "cita": "Mateo 6:33",
       "texto": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Oración y Respuesta",
@@ -2946,7 +2946,7 @@
     },
     {
       "id": 368,
-      "cita": "Mateo 7:7 (Lectura de Esperanza #368)",
+      "cita": "Mateo 7:7",
       "texto": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Refugio Celestial",
@@ -2954,7 +2954,7 @@
     },
     {
       "id": 369,
-      "cita": "Mateo 24:13 (Lectura de Esperanza #369)",
+      "cita": "Mateo 24:13",
       "texto": "Mas el que persevere hasta el fin, éste será salvo.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Esperanza y Promesas",
@@ -2962,7 +2962,7 @@
     },
     {
       "id": 370,
-      "cita": "Mateo 24:44 (Lectura de Esperanza #370)",
+      "cita": "Mateo 24:44",
       "texto": "Por tanto, también vosotros estad preparados; porque el Hijo del Hombre vendrá a la hora que no pensáis.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Segunda Venida de Cristo",
@@ -2970,7 +2970,7 @@
     },
     {
       "id": 371,
-      "cita": "Marcos 9:23 (Lectura de Esperanza #371)",
+      "cita": "Marcos 9:23",
       "texto": "Jesús le dijo: Si puedes creer, al que cree todo le es posible.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Paz y Consuelo",
@@ -2978,7 +2978,7 @@
     },
     {
       "id": 372,
-      "cita": "Marcos 11:24 (Lectura de Esperanza #372)",
+      "cita": "Marcos 11:24",
       "texto": "Por tanto, os digo que todo lo que pidiereis orando, creed que lo recibiréis, y os vendrá.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Fe y Confianza",
@@ -2986,7 +2986,7 @@
     },
     {
       "id": 373,
-      "cita": "Lucas 1:37 (Lectura de Esperanza #373)",
+      "cita": "Lucas 1:37",
       "texto": "Porque nada hay imposible para Dios.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Sanidad y Fortaleza",
@@ -2994,7 +2994,7 @@
     },
     {
       "id": 374,
-      "cita": "Lucas 12:32 (Lectura de Esperanza #374)",
+      "cita": "Lucas 12:32",
       "texto": "No temáis, manada pequeña, porque a vuestro Padre le ha placido daros el reino.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Amor de Dios",
@@ -3002,7 +3002,7 @@
     },
     {
       "id": 375,
-      "cita": "Lucas 21:28 (Lectura de Esperanza #375)",
+      "cita": "Lucas 21:28",
       "texto": "Cuando estas cosas comiencen a suceder, erguíos y levantad vuestra cabeza, porque vuestra redención está cerca.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Oración y Respuesta",
@@ -3010,7 +3010,7 @@
     },
     {
       "id": 376,
-      "cita": "Juan 1:12 (Lectura de Esperanza #376)",
+      "cita": "Juan 1:12",
       "texto": "Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Refugio Celestial",
@@ -3018,7 +3018,7 @@
     },
     {
       "id": 377,
-      "cita": "Juan 5:24 (Lectura de Esperanza #377)",
+      "cita": "Juan 5:24",
       "texto": "De cierto, de cierto os digo: El que oye mi palabra, y cree al que me envió, tiene vida eterna.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Esperanza y Promesas",
@@ -3026,7 +3026,7 @@
     },
     {
       "id": 378,
-      "cita": "Juan 6:37 (Lectura de Esperanza #378)",
+      "cita": "Juan 6:37",
       "texto": "Todo lo que el Padre me da, vendrá a mí; y al que a mí viene, no le echo fuera.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Segunda Venida de Cristo",
@@ -3034,7 +3034,7 @@
     },
     {
       "id": 379,
-      "cita": "Juan 8:12 (Lectura de Esperanza #379)",
+      "cita": "Juan 8:12",
       "texto": "Yo soy la luz del mundo; el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Paz y Consuelo",
@@ -3042,7 +3042,7 @@
     },
     {
       "id": 380,
-      "cita": "Juan 10:10 (Lectura de Esperanza #380)",
+      "cita": "Juan 10:10",
       "texto": "Yo he venido para que tengan vida, y para que la tengan en abundancia.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Fe y Confianza",
@@ -3050,7 +3050,7 @@
     },
     {
       "id": 381,
-      "cita": "Juan 10:27 (Lectura de Esperanza #381)",
+      "cita": "Juan 10:27",
       "texto": "Mis ovejas oyen mi voz, y yo las conozco, y me siguen, y yo les doy vida eterna; y no perecerán jamás.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Sanidad y Fortaleza",
@@ -3058,7 +3058,7 @@
     },
     {
       "id": 382,
-      "cita": "Juan 11:25 (Lectura de Esperanza #382)",
+      "cita": "Juan 11:25",
       "texto": "Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Amor de Dios",
@@ -3066,7 +3066,7 @@
     },
     {
       "id": 383,
-      "cita": "Juan 14:18 (Lectura de Esperanza #383)",
+      "cita": "Juan 14:18",
       "texto": "No os dejaré huérfanos; vendré a vosotros.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Oración y Respuesta",
@@ -3074,7 +3074,7 @@
     },
     {
       "id": 384,
-      "cita": "Juan 14:27 (Lectura de Esperanza #384)",
+      "cita": "Juan 14:27",
       "texto": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Refugio Celestial",
@@ -3082,7 +3082,7 @@
     },
     {
       "id": 385,
-      "cita": "Hechos 16:31 (Lectura de Esperanza #385)",
+      "cita": "Hechos 16:31",
       "texto": "Cree en el Señor Jesucristo, y serás salvo, tú y tu casa.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Esperanza y Promesas",
@@ -3090,7 +3090,7 @@
     },
     {
       "id": 386,
-      "cita": "Romanos 5:1 (Lectura de Esperanza #386)",
+      "cita": "Romanos 5:1",
       "texto": "Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Segunda Venida de Cristo",
@@ -3098,7 +3098,7 @@
     },
     {
       "id": 387,
-      "cita": "Romanos 5:5 (Lectura de Esperanza #387)",
+      "cita": "Romanos 5:5",
       "texto": "Y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Paz y Consuelo",
@@ -3106,7 +3106,7 @@
     },
     {
       "id": 388,
-      "cita": "Romanos 5:8 (Lectura de Esperanza #388)",
+      "cita": "Romanos 5:8",
       "texto": "Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Fe y Confianza",
@@ -3114,7 +3114,7 @@
     },
     {
       "id": 389,
-      "cita": "Romanos 8:1 (Lectura de Esperanza #389)",
+      "cita": "Romanos 8:1",
       "texto": "Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Sanidad y Fortaleza",
@@ -3122,7 +3122,7 @@
     },
     {
       "id": 390,
-      "cita": "Romanos 8:18 (Lectura de Esperanza #390)",
+      "cita": "Romanos 8:18",
       "texto": "Pues tengo por cierto que las aflicciones del tiempo presente no son comparables con la gloria venidera que en nosotros ha de manifestarse.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Amor de Dios",
@@ -3130,7 +3130,7 @@
     },
     {
       "id": 391,
-      "cita": "Romanos 8:31 (Lectura de Esperanza #391)",
+      "cita": "Romanos 8:31",
       "texto": "¿Qué, pues, diremos a esto? Si Dios es por nosotros, ¿quién contra nosotros?",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Oración y Respuesta",
@@ -3138,7 +3138,7 @@
     },
     {
       "id": 392,
-      "cita": "Romanos 10:17 (Lectura de Esperanza #392)",
+      "cita": "Romanos 10:17",
       "texto": "Así que la fe es por el oír, y el oír, por la palabra de Dios.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Refugio Celestial",
@@ -3146,7 +3146,7 @@
     },
     {
       "id": 393,
-      "cita": "Romanos 12:12 (Lectura de Esperanza #393)",
+      "cita": "Romanos 12:12",
       "texto": "Gozosos en la esperanza; sufridos en la tribulación; constantes en la oración.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Esperanza y Promesas",
@@ -3154,7 +3154,7 @@
     },
     {
       "id": 394,
-      "cita": "1 Corintios 2:9 (Lectura de Esperanza #394)",
+      "cita": "1 Corintios 2:9",
       "texto": "Cosas que ojo no vio, ni oído oyó, ni han subido en corazón de hombre, son las que Dios ha preparado para los que le aman.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Segunda Venida de Cristo",
@@ -3162,7 +3162,7 @@
     },
     {
       "id": 395,
-      "cita": "1 Corintios 10:13 (Lectura de Esperanza #395)",
+      "cita": "1 Corintios 10:13",
       "texto": "Fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir, sino que dará también juntamente con la tentación la salida.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Paz y Consuelo",
@@ -3170,7 +3170,7 @@
     },
     {
       "id": 396,
-      "cita": "1 Corintios 15:51 (Lectura de Esperanza #396)",
+      "cita": "1 Corintios 15:51",
       "texto": "He aquí, os digo un misterio: No todos dormiremos; pero todos seremos transformados.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Fe y Confianza",
@@ -3178,7 +3178,7 @@
     },
     {
       "id": 397,
-      "cita": "1 Corintios 15:57 (Lectura de Esperanza #397)",
+      "cita": "1 Corintios 15:57",
       "texto": "Mas gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Sanidad y Fortaleza",
@@ -3186,7 +3186,7 @@
     },
     {
       "id": 398,
-      "cita": "2 Corintios 1:3 (Lectura de Esperanza #398)",
+      "cita": "2 Corintios 1:3",
       "texto": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, Padre de misericordias y Dios de toda consolación.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Amor de Dios",
@@ -3194,7 +3194,7 @@
     },
     {
       "id": 399,
-      "cita": "2 Corintios 5:7 (Lectura de Esperanza #399)",
+      "cita": "2 Corintios 5:7",
       "texto": "Porque por fe andamos, no por vista.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Oración y Respuesta",
@@ -3202,7 +3202,7 @@
     },
     {
       "id": 400,
-      "cita": "2 Corintios 5:17 (Lectura de Esperanza #400)",
+      "cita": "2 Corintios 5:17",
       "texto": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Refugio Celestial",
@@ -3210,7 +3210,7 @@
     },
     {
       "id": 401,
-      "cita": "2 Corintios 12:9 (Lectura de Esperanza #401)",
+      "cita": "2 Corintios 12:9",
       "texto": "Bástate mi gracia; porque mi poder se perfecciona en la debilidad.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Esperanza y Promesas",
@@ -3218,7 +3218,7 @@
     },
     {
       "id": 402,
-      "cita": "Gálatas 2:20 (Lectura de Esperanza #402)",
+      "cita": "Gálatas 2:20",
       "texto": "Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Segunda Venida de Cristo",
@@ -3226,7 +3226,7 @@
     },
     {
       "id": 403,
-      "cita": "Gálatas 6:9 (Lectura de Esperanza #403)",
+      "cita": "Gálatas 6:9",
       "texto": "No nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Paz y Consuelo",
@@ -3234,7 +3234,7 @@
     },
     {
       "id": 404,
-      "cita": "Efesios 2:8 (Lectura de Esperanza #404)",
+      "cita": "Efesios 2:8",
       "texto": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Fe y Confianza",
@@ -3242,7 +3242,7 @@
     },
     {
       "id": 405,
-      "cita": "Efesios 3:20 (Lectura de Esperanza #405)",
+      "cita": "Efesios 3:20",
       "texto": "Y a aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Sanidad y Fortaleza",
@@ -3250,7 +3250,7 @@
     },
     {
       "id": 406,
-      "cita": "Filipenses 1:6 (Lectura de Esperanza #406)",
+      "cita": "Filipenses 1:6",
       "texto": "Estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Amor de Dios",
@@ -3258,7 +3258,7 @@
     },
     {
       "id": 407,
-      "cita": "Filipenses 3:20 (Lectura de Esperanza #407)",
+      "cita": "Filipenses 3:20",
       "texto": "Mas nuestra ciudadanía está en los cielos, de donde también esperamos al Salvador, al Señor Jesucristo.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Oración y Respuesta",
@@ -3266,7 +3266,7 @@
     },
     {
       "id": 408,
-      "cita": "Filipenses 4:19 (Lectura de Esperanza #408)",
+      "cita": "Filipenses 4:19",
       "texto": "Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Refugio Celestial",
@@ -3274,7 +3274,7 @@
     },
     {
       "id": 409,
-      "cita": "Colosenses 1:27 (Lectura de Esperanza #409)",
+      "cita": "Colosenses 1:27",
       "texto": "Cristo en vosotros, la esperanza de gloria.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Esperanza y Promesas",
@@ -3282,7 +3282,7 @@
     },
     {
       "id": 410,
-      "cita": "Colosenses 3:15 (Lectura de Esperanza #410)",
+      "cita": "Colosenses 3:15",
       "texto": "Y la paz de Dios gobierne en vuestros corazones.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Segunda Venida de Cristo",
@@ -3290,7 +3290,7 @@
     },
     {
       "id": 411,
-      "cita": "1 Tesalonicenses 5:16 (Lectura de Esperanza #411)",
+      "cita": "1 Tesalonicenses 5:16",
       "texto": "Estad siempre gozosos. Orad sin cesar. Dad gracias en todo.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Paz y Consuelo",
@@ -3298,7 +3298,7 @@
     },
     {
       "id": 412,
-      "cita": "1 Tesalonicenses 5:23 (Lectura de Esperanza #412)",
+      "cita": "1 Tesalonicenses 5:23",
       "texto": "Y el mismo Dios de paz os santifique por completo; y todo vuestro ser, espíritu, alma y cuerpo, sea guardado irreprensible para la venida de nuestro Señor Jesucristo.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Fe y Confianza",
@@ -3306,7 +3306,7 @@
     },
     {
       "id": 413,
-      "cita": "2 Tesalonicenses 3:3 (Lectura de Esperanza #413)",
+      "cita": "2 Tesalonicenses 3:3",
       "texto": "Pero fiel es el Señor, que os afirmará y guardará del mal.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Sanidad y Fortaleza",
@@ -3314,7 +3314,7 @@
     },
     {
       "id": 414,
-      "cita": "2 Timoteo 1:7 (Lectura de Esperanza #414)",
+      "cita": "2 Timoteo 1:7",
       "texto": "Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Amor de Dios",
@@ -3322,7 +3322,7 @@
     },
     {
       "id": 415,
-      "cita": "2 Timoteo 4:7 (Lectura de Esperanza #415)",
+      "cita": "2 Timoteo 4:7",
       "texto": "He peleado la buena batalla, he acabado la carrera, he guardado la fe.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Oración y Respuesta",
@@ -3330,7 +3330,7 @@
     },
     {
       "id": 416,
-      "cita": "Tito 1:2 (Lectura de Esperanza #416)",
+      "cita": "Tito 1:2",
       "texto": "En la esperanza de la vida eterna, la cual Dios, que no miente, prometió desde antes del principio de los siglos.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Refugio Celestial",
@@ -3338,7 +3338,7 @@
     },
     {
       "id": 417,
-      "cita": "Hebreos 4:9 (Lectura de Esperanza #417)",
+      "cita": "Hebreos 4:9",
       "texto": "Por tanto, queda un reposo para el pueblo de Dios.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Esperanza y Promesas",
@@ -3346,7 +3346,7 @@
     },
     {
       "id": 418,
-      "cita": "Hebreos 4:16 (Lectura de Esperanza #418)",
+      "cita": "Hebreos 4:16",
       "texto": "Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno socorro.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Segunda Venida de Cristo",
@@ -3354,7 +3354,7 @@
     },
     {
       "id": 419,
-      "cita": "Hebreos 6:19 (Lectura de Esperanza #419)",
+      "cita": "Hebreos 6:19",
       "texto": "La cual tenemos como segura y firme ancla del alma, y que penetra hasta dentro del velo.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Paz y Consuelo",
@@ -3362,7 +3362,7 @@
     },
     {
       "id": 420,
-      "cita": "Hebreos 12:1 (Lectura de Esperanza #420)",
+      "cita": "Hebreos 12:1",
       "texto": "Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús, el autor y consumador de la fe.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Fe y Confianza",
@@ -3370,7 +3370,7 @@
     },
     {
       "id": 421,
-      "cita": "Hebreos 13:5 (Lectura de Esperanza #421)",
+      "cita": "Hebreos 13:5",
       "texto": "No te desampararé, ni te dejaré.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Sanidad y Fortaleza",
@@ -3378,7 +3378,7 @@
     },
     {
       "id": 422,
-      "cita": "Hebreos 13:8 (Lectura de Esperanza #422)",
+      "cita": "Hebreos 13:8",
       "texto": "Jesucristo es el mismo ayer, y hoy, y por los siglos.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Amor de Dios",
@@ -3386,7 +3386,7 @@
     },
     {
       "id": 423,
-      "cita": "Santiago 1:5 (Lectura de Esperanza #423)",
+      "cita": "Santiago 1:5",
       "texto": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Oración y Respuesta",
@@ -3394,7 +3394,7 @@
     },
     {
       "id": 424,
-      "cita": "Santiago 1:12 (Lectura de Esperanza #424)",
+      "cita": "Santiago 1:12",
       "texto": "Bienaventurado el varón que soporta la tentación; porque cuando haya resistido la prueba, recibirá la corona de vida, que Dios ha prometido a los que le aman.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Refugio Celestial",
@@ -3402,7 +3402,7 @@
     },
     {
       "id": 425,
-      "cita": "Santiago 4:8 (Lectura de Esperanza #425)",
+      "cita": "Santiago 4:8",
       "texto": "Acercaos a Dios, y él se acercará a vosotros.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Esperanza y Promesas",
@@ -3410,7 +3410,7 @@
     },
     {
       "id": 426,
-      "cita": "Santiago 5:7 (Lectura de Esperanza #426)",
+      "cita": "Santiago 5:7",
       "texto": "Por tanto, hermanos, tened paciencia hasta la venida del Señor.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Segunda Venida de Cristo",
@@ -3418,7 +3418,7 @@
     },
     {
       "id": 427,
-      "cita": "Santiago 5:16 (Lectura de Esperanza #427)",
+      "cita": "Santiago 5:16",
       "texto": "La oración eficaz del justo puede mucho.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Paz y Consuelo",
@@ -3426,7 +3426,7 @@
     },
     {
       "id": 428,
-      "cita": "1 Pedro 1:3 (Lectura de Esperanza #428)",
+      "cita": "1 Pedro 1:3",
       "texto": "Bendito el Dios y Padre de nuestro Señor Jesucristo, que según su grande misericordia nos hizo renacer para una esperanza viva.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Fe y Confianza",
@@ -3434,7 +3434,7 @@
     },
     {
       "id": 429,
-      "cita": "1 Pedro 2:9 (Lectura de Esperanza #429)",
+      "cita": "1 Pedro 2:9",
       "texto": "Mas vosotros sois linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios, para que anunciéis las virtudes de aquel que os llamó de las tinieblas a su luz admirable.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Sanidad y Fortaleza",
@@ -3442,7 +3442,7 @@
     },
     {
       "id": 430,
-      "cita": "2 Pedro 1:19 (Lectura de Esperanza #430)",
+      "cita": "2 Pedro 1:19",
       "texto": "Tenemos también la palabra profética más segura, a la cual hacéis bien en estar atentos como a una antorcha que alumbra en lugar oscuro, hasta que el día esclarezca y el lucero de la mañana salga en vuestros corazones.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Amor de Dios",
@@ -3450,7 +3450,7 @@
     },
     {
       "id": 431,
-      "cita": "2 Pedro 3:9 (Lectura de Esperanza #431)",
+      "cita": "2 Pedro 3:9",
       "texto": "El Señor no retarda su promesa, según algunos la tienen por tardanza, sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Oración y Respuesta",
@@ -3458,7 +3458,7 @@
     },
     {
       "id": 432,
-      "cita": "2 Pedro 3:13 (Lectura de Esperanza #432)",
+      "cita": "2 Pedro 3:13",
       "texto": "Pero nosotros esperamos, según sus promesas, cielos nuevos y tierra nueva, en los cuales mora la justicia.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Refugio Celestial",
@@ -3466,7 +3466,7 @@
     },
     {
       "id": 433,
-      "cita": "1 Juan 1:9 (Lectura de Esperanza #433)",
+      "cita": "1 Juan 1:9",
       "texto": "Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Esperanza y Promesas",
@@ -3474,7 +3474,7 @@
     },
     {
       "id": 434,
-      "cita": "1 Juan 2:25 (Lectura de Esperanza #434)",
+      "cita": "1 Juan 2:25",
       "texto": "Y esta es la promesa que él nos hizo, la vida eterna.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Segunda Venida de Cristo",
@@ -3482,7 +3482,7 @@
     },
     {
       "id": 435,
-      "cita": "1 Juan 3:1 (Lectura de Esperanza #435)",
+      "cita": "1 Juan 3:1",
       "texto": "Mirad cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Paz y Consuelo",
@@ -3490,7 +3490,7 @@
     },
     {
       "id": 436,
-      "cita": "1 Juan 3:2 (Lectura de Esperanza #436)",
+      "cita": "1 Juan 3:2",
       "texto": "Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando él se manifieste, seremos semejantes a él, porque le veremos tal como él es.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Fe y Confianza",
@@ -3498,7 +3498,7 @@
     },
     {
       "id": 437,
-      "cita": "1 Juan 4:4 (Lectura de Esperanza #437)",
+      "cita": "1 Juan 4:4",
       "texto": "Mayor es el que está en vosotros, que el que está en el mundo.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Sanidad y Fortaleza",
@@ -3506,7 +3506,7 @@
     },
     {
       "id": 438,
-      "cita": "1 Juan 4:18 (Lectura de Esperanza #438)",
+      "cita": "1 Juan 4:18",
       "texto": "En el amor no hay temor, sino que el perfecto amor echa fuera el temor.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Amor de Dios",
@@ -3514,7 +3514,7 @@
     },
     {
       "id": 439,
-      "cita": "1 Juan 5:4 (Lectura de Esperanza #439)",
+      "cita": "1 Juan 5:4",
       "texto": "Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo, nuestra fe.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Oración y Respuesta",
@@ -3522,7 +3522,7 @@
     },
     {
       "id": 440,
-      "cita": "1 Juan 5:14 (Lectura de Esperanza #440)",
+      "cita": "1 Juan 5:14",
       "texto": "Y esta es la confianza que tenemos en él, que si pedimos alguna cosa conforme a su voluntad, él nos oye.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Refugio Celestial",
@@ -3530,7 +3530,7 @@
     },
     {
       "id": 441,
-      "cita": "Judas 1:24 (Lectura de Esperanza #441)",
+      "cita": "Judas 1:24",
       "texto": "Y a aquel que es poderoso para guardaros sin caída, y presentaros sin mancha delante de su gloria con gran alegría.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Esperanza y Promesas",
@@ -3538,7 +3538,7 @@
     },
     {
       "id": 442,
-      "cita": "Apocalipsis 1:7 (Lectura de Esperanza #442)",
+      "cita": "Apocalipsis 1:7",
       "texto": "He aquí que viene con las nubes, y todo ojo le verá.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Segunda Venida de Cristo",
@@ -3546,7 +3546,7 @@
     },
     {
       "id": 443,
-      "cita": "Apocalipsis 2:10 (Lectura de Esperanza #443)",
+      "cita": "Apocalipsis 2:10",
       "texto": "Sé fiel hasta la muerte, y yo te daré la corona de la vida.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Paz y Consuelo",
@@ -3554,7 +3554,7 @@
     },
     {
       "id": 444,
-      "cita": "Apocalipsis 3:11 (Lectura de Esperanza #444)",
+      "cita": "Apocalipsis 3:11",
       "texto": "He aquí, yo vengo pronto; retén lo que tienes, para que ninguno tome tu corona.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Fe y Confianza",
@@ -3562,7 +3562,7 @@
     },
     {
       "id": 445,
-      "cita": "Apocalipsis 3:20 (Lectura de Esperanza #445)",
+      "cita": "Apocalipsis 3:20",
       "texto": "He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Sanidad y Fortaleza",
@@ -3570,7 +3570,7 @@
     },
     {
       "id": 446,
-      "cita": "Apocalipsis 7:17 (Lectura de Esperanza #446)",
+      "cita": "Apocalipsis 7:17",
       "texto": "Porque el Cordero que está en medio del trono los pastoreará, y los guiará a fuentes de aguas de vida; y Dios enjugará toda lágrima de los ojos de ellos.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Amor de Dios",
@@ -3578,7 +3578,7 @@
     },
     {
       "id": 447,
-      "cita": "Apocalipsis 19:6 (Lectura de Esperanza #447)",
+      "cita": "Apocalipsis 19:6",
       "texto": "¡Aleluya, porque el Señor nuestro Dios Todopoderoso reina!",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Oración y Respuesta",
@@ -3586,7 +3586,7 @@
     },
     {
       "id": 448,
-      "cita": "Apocalipsis 21:5 (Lectura de Esperanza #448)",
+      "cita": "Apocalipsis 21:5",
       "texto": "Y el que estaba sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y me dijo: Escribe; porque estas palabras son fieles y verdaderas.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Refugio Celestial",
@@ -3594,7 +3594,7 @@
     },
     {
       "id": 449,
-      "cita": "Apocalipsis 22:1 (Lectura de Esperanza #449)",
+      "cita": "Apocalipsis 22:1",
       "texto": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Esperanza y Promesas",
@@ -3602,7 +3602,7 @@
     },
     {
       "id": 450,
-      "cita": "Apocalipsis 22:7 (Lectura de Esperanza #450)",
+      "cita": "Apocalipsis 22:7",
       "texto": "¡He aquí, vengo pronto! Bienaventurado el que guarda las palabras de la profecía de este libro.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Segunda Venida de Cristo",
@@ -3610,7 +3610,7 @@
     },
     {
       "id": 451,
-      "cita": "Salmos 104:33 (Lectura de Esperanza #451)",
+      "cita": "Salmos 104:33",
       "texto": "A Jehová cantaré en mi vida; a mi Dios cantaré salmos mientras viva.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Paz y Consuelo",
@@ -3618,7 +3618,7 @@
     },
     {
       "id": 452,
-      "cita": "Salmos 105:4 (Lectura de Esperanza #452)",
+      "cita": "Salmos 105:4",
       "texto": "Buscad a Jehová y su poder; buscad siempre su rostro.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Fe y Confianza",
@@ -3626,7 +3626,7 @@
     },
     {
       "id": 453,
-      "cita": "Salmos 106:1 (Lectura de Esperanza #453)",
+      "cita": "Salmos 106:1",
       "texto": "Aleluya. Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Sanidad y Fortaleza",
@@ -3634,7 +3634,7 @@
     },
     {
       "id": 454,
-      "cita": "Salmos 107:1 (Lectura de Esperanza #454)",
+      "cita": "Salmos 107:1",
       "texto": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Amor de Dios",
@@ -3642,7 +3642,7 @@
     },
     {
       "id": 455,
-      "cita": "Salmos 107:9 (Lectura de Esperanza #455)",
+      "cita": "Salmos 107:9",
       "texto": "Porque sacia al alma menesterosa, y llena de bien al alma hambrienta.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Oración y Respuesta",
@@ -3650,7 +3650,7 @@
     },
     {
       "id": 456,
-      "cita": "Salmos 107:19-20 (Lectura de Esperanza #456)",
+      "cita": "Salmos 107:19-20",
       "texto": "Pero clamaron a Jehová en su angustia, y los libró de sus aflicciones. Envió su palabra, y los sanó, y los libró de su ruina.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Refugio Celestial",
@@ -3658,7 +3658,7 @@
     },
     {
       "id": 457,
-      "cita": "Salmos 108:4 (Lectura de Esperanza #457)",
+      "cita": "Salmos 108:4",
       "texto": "Porque más grande que los cielos es tu misericordia, y hasta los cielos tu verdad.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Esperanza y Promesas",
@@ -3666,7 +3666,7 @@
     },
     {
       "id": 458,
-      "cita": "Salmos 111:10 (Lectura de Esperanza #458)",
+      "cita": "Salmos 111:10",
       "texto": "El principio de la sabiduría es el temor de Jehová; buen entendimiento tienen todos los que practican sus mandamientos.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Segunda Venida de Cristo",
@@ -3674,7 +3674,7 @@
     },
     {
       "id": 459,
-      "cita": "Salmos 112:1 (Lectura de Esperanza #459)",
+      "cita": "Salmos 112:1",
       "texto": "Bienaventurado el hombre que teme a Jehová, y en sus mandamientos se deleita en gran manera.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Paz y Consuelo",
@@ -3682,7 +3682,7 @@
     },
     {
       "id": 460,
-      "cita": "Salmos 112:4 (Lectura de Esperanza #460)",
+      "cita": "Salmos 112:4",
       "texto": "Resplandeció en las tinieblas luz a los rectos; es clemente, misericordioso y justo.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Fe y Confianza",
@@ -3690,7 +3690,7 @@
     },
     {
       "id": 461,
-      "cita": "Salmos 112:7 (Lectura de Esperanza #461)",
+      "cita": "Salmos 112:7",
       "texto": "No tendrá temor de malas noticias; su corazón está firme, confiado en Jehová.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Sanidad y Fortaleza",
@@ -3698,7 +3698,7 @@
     },
     {
       "id": 462,
-      "cita": "Salmos 113:3 (Lectura de Esperanza #462)",
+      "cita": "Salmos 113:3",
       "texto": "Desde el nacimiento del sol hasta donde se pone, sea alabado el nombre de Jehová.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Amor de Dios",
@@ -3706,7 +3706,7 @@
     },
     {
       "id": 463,
-      "cita": "Salmos 115:11 (Lectura de Esperanza #463)",
+      "cita": "Salmos 115:11",
       "texto": "Los que teméis a Jehová, confiad en Jehová; él es vuestra ayuda y vuestro escudo.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Oración y Respuesta",
@@ -3714,7 +3714,7 @@
     },
     {
       "id": 464,
-      "cita": "Salmos 116:1-2 (Lectura de Esperanza #464)",
+      "cita": "Salmos 116:1-2",
       "texto": "Amo a Jehová, pues ha oído mi voz y mis súplicas; porque ha inclinado a mí su oído; por tanto, le invocaré en todos mis días.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Refugio Celestial",
@@ -3722,7 +3722,7 @@
     },
     {
       "id": 465,
-      "cita": "Salmos 116:7 (Lectura de Esperanza #465)",
+      "cita": "Salmos 116:7",
       "texto": "Vuelve, oh alma mía, a tu reposo, porque Jehová te ha hecho bien.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Esperanza y Promesas",
@@ -3730,7 +3730,7 @@
     },
     {
       "id": 466,
-      "cita": "Salmos 117:2 (Lectura de Esperanza #466)",
+      "cita": "Salmos 117:2",
       "texto": "Porque ha engrandecido sobre nosotros su misericordia, y la fidelidad de Jehová es para siempre. Aleluya.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Segunda Venida de Cristo",
@@ -3738,7 +3738,7 @@
     },
     {
       "id": 467,
-      "cita": "Salmos 118:6 (Lectura de Esperanza #467)",
+      "cita": "Salmos 118:6",
       "texto": "Jehová está conmigo; no temeré lo que me pueda hacer el hombre.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Paz y Consuelo",
@@ -3746,7 +3746,7 @@
     },
     {
       "id": 468,
-      "cita": "Salmos 118:8 (Lectura de Esperanza #468)",
+      "cita": "Salmos 118:8",
       "texto": "Mejor es confiar en Jehová que confiar en el hombre.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Fe y Confianza",
@@ -3754,7 +3754,7 @@
     },
     {
       "id": 469,
-      "cita": "Salmos 118:14 (Lectura de Esperanza #469)",
+      "cita": "Salmos 118:14",
       "texto": "Mi fortaleza y mi cántico es JAH, y él me ha sido por salvación.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Sanidad y Fortaleza",
@@ -3762,7 +3762,7 @@
     },
     {
       "id": 470,
-      "cita": "Salmos 118:24 (Lectura de Esperanza #470)",
+      "cita": "Salmos 118:24",
       "texto": "Este es el día que hizo Jehová; nos gozaremos y alegraremos en él.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Amor de Dios",
@@ -3770,7 +3770,7 @@
     },
     {
       "id": 471,
-      "cita": "Salmos 119:9 (Lectura de Esperanza #471)",
+      "cita": "Salmos 119:9",
       "texto": "¿Con qué limpiará el joven su camino? Con guardar tu palabra.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Oración y Respuesta",
@@ -3778,7 +3778,7 @@
     },
     {
       "id": 472,
-      "cita": "Salmos 119:11 (Lectura de Esperanza #472)",
+      "cita": "Salmos 119:11",
       "texto": "En mi corazón he guardado tus dichos, para no pecar contra ti.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Refugio Celestial",
@@ -3786,7 +3786,7 @@
     },
     {
       "id": 473,
-      "cita": "Salmos 119:18 (Lectura de Esperanza #473)",
+      "cita": "Salmos 119:18",
       "texto": "Abre mis ojos, y miraré las maravillas de tu ley.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Esperanza y Promesas",
@@ -3794,7 +3794,7 @@
     },
     {
       "id": 474,
-      "cita": "Salmos 119:28 (Lectura de Esperanza #474)",
+      "cita": "Salmos 119:28",
       "texto": "Se deshace mi alma de ansiedad; susténtame según tu palabra.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Segunda Venida de Cristo",
@@ -3802,7 +3802,7 @@
     },
     {
       "id": 475,
-      "cita": "Salmos 119:49-50 (Lectura de Esperanza #475)",
+      "cita": "Salmos 119:49-50",
       "texto": "Acuérdate de la palabra dada a tu siervo, en la cual me has hecho esperar. Ella es mi consuelo en mi aflicción, porque tu dicho me ha vivificado.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Paz y Consuelo",
@@ -3810,7 +3810,7 @@
     },
     {
       "id": 476,
-      "cita": "Salmos 119:76 (Lectura de Esperanza #476)",
+      "cita": "Salmos 119:76",
       "texto": "Sea ahora tu misericordia para consolarme, conforme a lo que has dicho a tu siervo.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Fe y Confianza",
@@ -3818,7 +3818,7 @@
     },
     {
       "id": 477,
-      "cita": "Salmos 119:81 (Lectura de Esperanza #477)",
+      "cita": "Salmos 119:81",
       "texto": "Desfallece mi alma por tu salvación, mas espero en tu palabra.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Sanidad y Fortaleza",
@@ -3826,7 +3826,7 @@
     },
     {
       "id": 478,
-      "cita": "Salmos 119:89 (Lectura de Esperanza #478)",
+      "cita": "Salmos 119:89",
       "texto": "Para siempre, oh Jehová, permanece tu palabra en los cielos.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Amor de Dios",
@@ -3834,7 +3834,7 @@
     },
     {
       "id": 479,
-      "cita": "Salmos 119:116 (Lectura de Esperanza #479)",
+      "cita": "Salmos 119:116",
       "texto": "Susténtame conforme a tu palabra, y viviré; y no quede yo avergonzado de mi esperanza.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Oración y Respuesta",
@@ -3842,7 +3842,7 @@
     },
     {
       "id": 480,
-      "cita": "Salmos 119:130 (Lectura de Esperanza #480)",
+      "cita": "Salmos 119:130",
       "texto": "La exposición de tus palabras alumbra; hace entender a los simples.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Refugio Celestial",
@@ -3850,7 +3850,7 @@
     },
     {
       "id": 481,
-      "cita": "Salmos 119:147 (Lectura de Esperanza #481)",
+      "cita": "Salmos 119:147",
       "texto": "Me anticipé al alba, y clamé; esperé en tu palabra.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Esperanza y Promesas",
@@ -3858,7 +3858,7 @@
     },
     {
       "id": 482,
-      "cita": "Salmos 119:165 (Lectura de Esperanza #482)",
+      "cita": "Salmos 119:165",
       "texto": "Mucha paz tienen los que aman tu ley, y no hay para ellos tropiezo.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Segunda Venida de Cristo",
@@ -3866,7 +3866,7 @@
     },
     {
       "id": 483,
-      "cita": "Salmos 121:3-4 (Lectura de Esperanza #483)",
+      "cita": "Salmos 121:3-4",
       "texto": "No dará tu pie al resbaladero, ni se dormirá el que te guarda. He aquí, no se adormecerá ni dormirá el que guarda a Israel.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Paz y Consuelo",
@@ -3874,7 +3874,7 @@
     },
     {
       "id": 484,
-      "cita": "Salmos 121:5-6 (Lectura de Esperanza #484)",
+      "cita": "Salmos 121:5-6",
       "texto": "Jehová es tu guardador; Jehová es tu sombra a tu mano derecha. El sol no te fatigará de día, ni la luna de noche.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Fe y Confianza",
@@ -3882,7 +3882,7 @@
     },
     {
       "id": 485,
-      "cita": "Salmos 121:7-8 (Lectura de Esperanza #485)",
+      "cita": "Salmos 121:7-8",
       "texto": "Jehová te guardará de todo mal; él guardará tu alma. Jehová guardará tu salida y tu entrada desde ahora y para siempre.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Sanidad y Fortaleza",
@@ -3890,7 +3890,7 @@
     },
     {
       "id": 486,
-      "cita": "Salmos 122:1 (Lectura de Esperanza #486)",
+      "cita": "Salmos 122:1",
       "texto": "Yo me alegré con los que me decían: A la casa de Jehová iremos.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Amor de Dios",
@@ -3898,7 +3898,7 @@
     },
     {
       "id": 487,
-      "cita": "Salmos 124:8 (Lectura de Esperanza #487)",
+      "cita": "Salmos 124:8",
       "texto": "Nuestro socorro está en el nombre de Jehová, que hizo el cielo y la tierra.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Oración y Respuesta",
@@ -3906,7 +3906,7 @@
     },
     {
       "id": 488,
-      "cita": "Salmos 125:1 (Lectura de Esperanza #488)",
+      "cita": "Salmos 125:1",
       "texto": "Los que confían en Jehová son como el monte de Sion, que no se mueve, sino que permanece para siempre.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Refugio Celestial",
@@ -3914,7 +3914,7 @@
     },
     {
       "id": 489,
-      "cita": "Salmos 126:3 (Lectura de Esperanza #489)",
+      "cita": "Salmos 126:3",
       "texto": "Grandes cosas ha hecho Jehová con nosotros; estaremos alegres.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Esperanza y Promesas",
@@ -3922,7 +3922,7 @@
     },
     {
       "id": 490,
-      "cita": "Salmos 126:5-6 (Lectura de Esperanza #490)",
+      "cita": "Salmos 126:5-6",
       "texto": "Los que sembraron con lágrimas, con regocijo segarán. Irá andando y llorando el que lleva la preciosa semilla; mas volverá a venir con regocijo, trayendo sus gavillas.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Segunda Venida de Cristo",
@@ -3930,7 +3930,7 @@
     },
     {
       "id": 491,
-      "cita": "Salmos 127:1 (Lectura de Esperanza #491)",
+      "cita": "Salmos 127:1",
       "texto": "Si Jehová no edificare la casa, en vano trabajan los que la edifican; si Jehová no guardare la ciudad, en vano vela la guardia.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Paz y Consuelo",
@@ -3938,7 +3938,7 @@
     },
     {
       "id": 492,
-      "cita": "Salmos 130:7 (Lectura de Esperanza #492)",
+      "cita": "Salmos 130:7",
       "texto": "Espere Israel a Jehová, porque en Jehová hay misericordia, y abundante redención con él.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Fe y Confianza",
@@ -3946,7 +3946,7 @@
     },
     {
       "id": 493,
-      "cita": "Salmos 135:3 (Lectura de Esperanza #493)",
+      "cita": "Salmos 135:3",
       "texto": "Alabad a JAH, porque él es bueno; cantad salmos a su nombre, porque él es benigno.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Sanidad y Fortaleza",
@@ -3954,7 +3954,7 @@
     },
     {
       "id": 494,
-      "cita": "Salmos 136:1 (Lectura de Esperanza #494)",
+      "cita": "Salmos 136:1",
       "texto": "Alabad a Jehová, porque él es bueno, porque para siempre es su misericordia.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Amor de Dios",
@@ -3962,7 +3962,7 @@
     },
     {
       "id": 495,
-      "cita": "Salmos 138:3 (Lectura de Esperanza #495)",
+      "cita": "Salmos 138:3",
       "texto": "El día que clamé, me respondiste; me fortaleciste con vigor en mi alma.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Oración y Respuesta",
@@ -3970,7 +3970,7 @@
     },
     {
       "id": 496,
-      "cita": "Salmos 138:7 (Lectura de Esperanza #496)",
+      "cita": "Salmos 138:7",
       "texto": "Si anduviere yo en medio de la angustia, tú me vivificarás.",
       "reflexion": "Confía en las promesas de Dios hoy; Su fidelidad permanece para siempre.",
       "categoria": "Refugio Celestial",
@@ -3978,7 +3978,7 @@
     },
     {
       "id": 497,
-      "cita": "Salmos 138:8 (Lectura de Esperanza #497)",
+      "cita": "Salmos 138:8",
       "texto": "Jehová cumplirá su propósito en mí; tu misericordia, oh Jehová, es para siempre; no desampares la obra de tus manos.",
       "reflexion": "La segunda venida de Cristo es nuestra bendita esperanza; prepárate para Su pronto regreso.",
       "categoria": "Esperanza y Promesas",
@@ -3986,7 +3986,7 @@
     },
     {
       "id": 498,
-      "cita": "Salmos 139:14 (Lectura de Esperanza #498)",
+      "cita": "Salmos 139:14",
       "texto": "Te alabaré; porque formidables, maravillosas son tus obras; estoy maravillado, y mi alma lo sabe muy bien.",
       "reflexion": "En medio de cualquier tormenta, el Señor es tu refugio seguro y tu paz.",
       "categoria": "Segunda Venida de Cristo",
@@ -3994,7 +3994,7 @@
     },
     {
       "id": 499,
-      "cita": "Salmos 139:23-24 (Lectura de Esperanza #499)",
+      "cita": "Salmos 139:23-24",
       "texto": "Examíname, oh Dios, y conoce mi corazón; pruébame y conoce mis pensamientos; y ve si hay en mí camino de perversidad, y guíame en el camino eterno.",
       "reflexion": "Entrega tus cargas en oración; el Creador del universo escucha tu clamor.",
       "categoria": "Paz y Consuelo",
@@ -4002,11 +4002,1699 @@
     },
     {
       "id": 500,
-      "cita": "Salmos 143:8 (Lectura de Esperanza #500)",
+      "cita": "Salmos 143:8",
       "texto": "Hazme oír por la mañana tu misericordia, porque en ti he confiado; hazme saber el camino por donde ande, porque a ti he elevado mi alma.",
       "reflexion": "Dios tiene un propósito eterno para tu vida; camina por fe y no por vista.",
       "categoria": "Fe y Confianza",
       "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 501,
+      "cita": "Génesis 1:1",
+      "texto": "En el principio creó Dios los cielos y la tierra.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 502,
+      "cita": "Génesis 1:27",
+      "texto": "Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 503,
+      "cita": "Génesis 2:3",
+      "texto": "Y bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda la obra que había hecho en la creación.",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 504,
+      "cita": "Génesis 12:2",
+      "texto": "Y haré de ti una nación grande, y te bendeciré, y engrandeceré tu nombre, y serás bendición.",
+      "reflexion": "Dios cumple lo que promete; descansa hoy en Su palabra.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 505,
+      "cita": "Génesis 28:15",
+      "texto": "He aquí, yo estoy contigo, y te guardaré por dondequiera que fueres, y volveré a traerte a esta tierra; porque no te dejaré hasta que haya hecho lo que te he dicho.",
+      "reflexion": "En Dios tienes un refugio seguro cuando todo se mueve.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 506,
+      "cita": "Génesis 50:20",
+      "texto": "Vosotros pensasteis mal contra mí, mas Dios lo encaminó a bien, para hacer lo que vemos hoy, para mantener en vida a mucho pueblo.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 507,
+      "cita": "Éxodo 14:14",
+      "texto": "Jehová peleará por vosotros, y vosotros estaréis tranquilos.",
+      "reflexion": "Su presencia es fortaleza y escudo en el día difícil.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 508,
+      "cita": "Éxodo 15:26",
+      "texto": "Si oyeres atentamente la voz de Jehová tu Dios, e hicieres lo recto delante de sus ojos, y dieres oído a sus mandamientos, y guardares todos sus estatutos, ninguna enfermedad de las que envié a los egipcios te enviaré a ti; porque yo soy Jehová tu sanador.",
+      "reflexion": "Dios renueva tus fuerzas y sana lo que está herido.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 509,
+      "cita": "Éxodo 33:14",
+      "texto": "Y él dijo: Mi presencia irá contigo, y te daré descanso.",
+      "reflexion": "La paz de Dios guarda tu corazón aun en medio de la prisa.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 510,
+      "cita": "Números 6:24-26",
+      "texto": "Jehová te bendiga, y te guarde; Jehová haga resplandecer su rostro sobre ti, y tenga de ti misericordia; Jehová alce sobre ti su rostro, y ponga en ti paz.",
+      "reflexion": "Respira y descansa: el Señor cuida de ti hoy.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 511,
+      "cita": "Números 23:19",
+      "texto": "Dios no es hombre, para que mienta, ni hijo de hombre para que se arrepienta. Él dijo, ¿y no hará? Habló, ¿y no lo ejecutará?",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 512,
+      "cita": "Deuteronomio 6:5",
+      "texto": "Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas.",
+      "reflexion": "Recibe hoy Su gracia y compártela con quien lo necesite.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 513,
+      "cita": "Deuteronomio 31:6",
+      "texto": "Esforzaos y cobrad ánimo; no temáis, ni tengáis miedo de ellos, porque Jehová tu Dios es el que va contigo; no te dejará, ni te desamparará.",
+      "reflexion": "Corre a Él: Su amparo nunca se cierra.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 514,
+      "cita": "Deuteronomio 31:8",
+      "texto": "Y Jehová va delante de ti; él será contigo, no te dejará, ni te desamparará; no temas ni te intimides.",
+      "reflexion": "Su consuelo llega justo cuando más lo necesitas.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 515,
+      "cita": "Deuteronomio 33:27",
+      "texto": "El eterno Dios es tu refugio, y acá abajo los brazos eternos.",
+      "reflexion": "Bajo Sus alas estás protegido hoy y siempre.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 516,
+      "cita": "Deuteronomio 7:9",
+      "texto": "Conoce, pues, que Jehová tu Dios es Dios, Dios fiel, que guarda el pacto y la misericordia a los que le aman y guardan sus mandamientos, hasta mil generaciones.",
+      "reflexion": "Cada promesa de Dios es un ancla para tu alma en tiempos inciertos.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 517,
+      "cita": "Deuteronomio 4:29",
+      "texto": "Mas si desde allí buscares a Jehová tu Dios, lo hallarás, si le buscares de todo tu corazón y de toda tu alma.",
+      "reflexion": "Habla con Dios hoy; Él escucha cada oración.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 518,
+      "cita": "Josué 24:15",
+      "texto": "Y si mal os parece servir a Jehová, escogeos hoy a quién sirváis; si a los dioses a quienes sirvieron vuestros padres, cuando estuvieron al otro lado del río, o a los dioses de los amorreos en cuya tierra habitáis; pero yo y mi casa serviremos a Jehová.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 519,
+      "cita": "Josué 1:8",
+      "texto": "Nunca se apartará de tu boca este libro de la ley, sino que de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que en él está escrito; porque entonces harás prosperar tu camino, y todo te saldrá bien.",
+      "reflexion": "La esperanza en Cristo no defrauda; Él termina lo que empieza.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 520,
+      "cita": "1 Samuel 16:7",
+      "texto": "Porque Jehová no mira lo que mira el hombre; pues el hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón.",
+      "reflexion": "El amor de Dios se manifestó en la cruz; nada lo supera.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 521,
+      "cita": "1 Samuel 12:24",
+      "texto": "Solamente temed a Jehová y servidle de verdad con todo vuestro corazón, pues considerad cuán grandes cosas ha hecho por vosotros.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 522,
+      "cita": "2 Samuel 22:31",
+      "texto": "En cuanto a Dios, perfecto es su camino, y acrisolada la palabra de Jehová; escudo es a todos los que en él esperan.",
+      "reflexion": "En Dios tienes un refugio seguro cuando todo se mueve.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 523,
+      "cita": "2 Crónicas 7:14",
+      "texto": "Si se humillare mi pueblo, sobre el cual mi nombre es invocado, y oraren, y buscaren mi rostro, y se convirtieren de sus malos caminos; entonces yo oiré desde los cielos, y perdonaré sus pecados, y sanaré su tierra.",
+      "reflexion": "La oración abre la puerta al poder y la guía del cielo.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 524,
+      "cita": "2 Crónicas 16:9",
+      "texto": "Porque los ojos de Jehová contemplan toda la tierra, para mostrar su poder a favor de los que tienen corazón perfecto para con él.",
+      "reflexion": "En tu debilidad, el poder del Señor se hace evidente.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 525,
+      "cita": "2 Crónicas 20:15",
+      "texto": "No temáis ni os desmayéis por causa de esta multitud tan grande, porque no es vuestra la guerra, sino de Dios.",
+      "reflexion": "Su presencia es fortaleza y escudo en el día difícil.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 526,
+      "cita": "1 Crónicas 16:34",
+      "texto": "Alabad a Jehová, porque él es bueno; porque su misericordia es eterna.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 527,
+      "cita": "1 Crónicas 28:20",
+      "texto": "Esfuérzate y cobra ánimo, y manos a la obra; no temas, ni desmayes, porque Jehová Dios, mi Dios, estará contigo; él no te dejará ni te desamparará.",
+      "reflexion": "Cuida el cuerpo y el alma: ambos son un regalo de Dios.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 528,
+      "cita": "Nehemías 8:10",
+      "texto": "No os entristezcáis, porque el gozo de Jehová es vuestra fuerza.",
+      "reflexion": "Él te levanta cuando no tienes más fuerzas.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 529,
+      "cita": "Job 19:25",
+      "texto": "Yo sé que mi Redentor vive, y al fin se levantará sobre el polvo.",
+      "reflexion": "Cristo viene pronto; vive hoy preparado y con gozo.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 530,
+      "cita": "Job 23:10",
+      "texto": "Mas él conoce mi camino; me probará, y saldré como oro.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 531,
+      "cita": "Job 42:2",
+      "texto": "Yo conozco que todo lo puedes, y que no hay pensamiento que se esconda de ti.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 532,
+      "cita": "Salmos 1:1-2",
+      "texto": "Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado; sino que en la ley de Jehová está su delicia, y en su ley medita de día y de noche.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 533,
+      "cita": "Salmos 8:3-4",
+      "texto": "Cuando veo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste, digo: ¿Qué es el hombre, para que tengas de él memoria, y el hijo del hombre, para que lo visites?",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 534,
+      "cita": "Salmos 19:1",
+      "texto": "Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 535,
+      "cita": "Salmos 19:7",
+      "texto": "La ley de Jehová es perfecta, que convierte el alma; el testimonio de Jehová es fiel, que hace sabio al sencillo.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 536,
+      "cita": "Salmos 24:1",
+      "texto": "De Jehová es la tierra y su plenitud; el mundo, y los que en él habitan.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 537,
+      "cita": "Salmos 25:4",
+      "texto": "Muéstrame, oh Jehová, tus caminos; enséñame tus sendas.",
+      "reflexion": "Busca Su rostro en la mañana y verás Su respuesta en el día.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 538,
+      "cita": "Salmos 27:4",
+      "texto": "Una cosa he demandado a Jehová, ésta buscaré: que esté yo en la casa de Jehová todos los días de mi vida, para contemplar la hermosura de Jehová, y para inquirir en su templo.",
+      "reflexion": "Corre a Él: Su amparo nunca se cierra.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 539,
+      "cita": "Salmos 27:13",
+      "texto": "Hubiera yo desmayado, si no creyese que veré la bondad de Jehová en la tierra de los vivientes.",
+      "reflexion": "Lo que Dios ha dicho se cumplirá a su tiempo y a su manera.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 540,
+      "cita": "Salmos 29:2",
+      "texto": "Dad a Jehová la gloria debida a su nombre; adorad a Jehová en la hermosura de la santidad.",
+      "reflexion": "Ora con confianza: tu Padre celestial conoce tu necesidad.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 541,
+      "cita": "Salmos 30:11",
+      "texto": "Has cambiado mi lamento en baile; desataste mi cilicio, y me ceñiste de alegría.",
+      "reflexion": "Deja tus preocupaciones a los pies de Jesús y recibe Su calma.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 542,
+      "cita": "Salmos 31:3",
+      "texto": "Porque tú eres mi roca y mi castillo; por tu nombre me guiarás y me encaminarás.",
+      "reflexion": "Bajo Sus alas estás protegido hoy y siempre.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 543,
+      "cita": "Salmos 32:1",
+      "texto": "Bienaventurado aquel cuyo pecado ha sido perdonado, y cubierta su iniquidad.",
+      "reflexion": "La paz de Dios guarda tu corazón aun en medio de la prisa.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 544,
+      "cita": "Salmos 33:4",
+      "texto": "Porque recta es la palabra de Jehová, y toda su obra es hecha con fidelidad.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 545,
+      "cita": "Salmos 33:6",
+      "texto": "Por la palabra de Jehová fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 546,
+      "cita": "Salmos 34:1",
+      "texto": "Bendeciré a Jehová en todo tiempo; su alabanza estará de continuo en mi boca.",
+      "reflexion": "Habla con Dios hoy; Él escucha cada oración.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 547,
+      "cita": "Salmos 34:10",
+      "texto": "Los leoncillos necesitaron, y tuvieron hambre; pero los que buscan a Jehová no tendrán falta de ningún bien.",
+      "reflexion": "Dios cumple lo que promete; descansa hoy en Su palabra.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 548,
+      "cita": "Salmos 34:22",
+      "texto": "Jehová redime el alma de sus siervos, y no serán condenados cuantos en él confían.",
+      "reflexion": "Cada promesa de Dios es un ancla para tu alma en tiempos inciertos.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 549,
+      "cita": "Salmos 37:3",
+      "texto": "Confía en Jehová, y haz el bien; y habitarás en la tierra, y te alimentarás de la verdad.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 550,
+      "cita": "Salmos 37:39",
+      "texto": "Pero la salvación de los justos es de Jehová, y él es su fortaleza en el tiempo de la angustia.",
+      "reflexion": "En Dios tienes un refugio seguro cuando todo se mueve.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 551,
+      "cita": "Salmos 40:2",
+      "texto": "Y me hizo sacar del pozo de la desesperación, del lodo cenagoso; puso mis pies sobre peña, y enderezó mis pasos.",
+      "reflexion": "Dios renueva tus fuerzas y sana lo que está herido.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 552,
+      "cita": "Salmos 40:8",
+      "texto": "El hacer tu voluntad, Dios mío, me ha agradado, y tu ley está en medio de mi corazón.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 553,
+      "cita": "Salmos 46:2",
+      "texto": "Por tanto, no temeremos, aunque la tierra sea removida, y se traspasen los montes al corazón del mar.",
+      "reflexion": "Su presencia es fortaleza y escudo en el día difícil.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 554,
+      "cita": "Salmos 48:14",
+      "texto": "Porque este Dios es Dios nuestro eternamente y para siempre; él nos guiará aun más allá de la muerte.",
+      "reflexion": "La esperanza en Cristo no defrauda; Él termina lo que empieza.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 555,
+      "cita": "Salmos 50:15",
+      "texto": "E invócame en el día de la angustia; te libraré, y tú me honrarás.",
+      "reflexion": "La oración abre la puerta al poder y la guía del cielo.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 556,
+      "cita": "Salmos 51:10",
+      "texto": "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.",
+      "reflexion": "Busca Su rostro en la mañana y verás Su respuesta en el día.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 557,
+      "cita": "Salmos 51:12",
+      "texto": "Vuélveme el gozo de tu salvación, y espíritu noble me sustente.",
+      "reflexion": "Respira y descansa: el Señor cuida de ti hoy.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 558,
+      "cita": "Salmos 57:1",
+      "texto": "Ten misericordia de mí, oh Dios, ten misericordia de mí; porque en ti ha confiado mi alma, y en la sombra de tus alas me ampararé hasta que pasen los quebrantos.",
+      "reflexion": "Corre a Él: Su amparo nunca se cierra.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 559,
+      "cita": "Salmos 61:2",
+      "texto": "Desde el cabo de la tierra clamaré a ti, cuando mi corazón desmayare. Llévame a la roca que es más alta que yo.",
+      "reflexion": "Bajo Sus alas estás protegido hoy y siempre.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 560,
+      "cita": "Salmos 62:8",
+      "texto": "Esperad en él en todo tiempo, oh pueblos; derramad delante de él vuestro corazón; Dios es nuestro amparo.",
+      "reflexion": "Ora con confianza: tu Padre celestial conoce tu necesidad.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 561,
+      "cita": "Salmos 73:28",
+      "texto": "Mas para mí, el acercarme a Dios es el bien; he puesto en Jehová el Señor mi esperanza, para contar todas tus obras.",
+      "reflexion": "Lo que Dios ha dicho se cumplirá a su tiempo y a su manera.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 562,
+      "cita": "Salmos 90:12",
+      "texto": "Enséñanos de tal modo a contar nuestros días, que traigamos al corazón sabiduría.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 563,
+      "cita": "Salmos 90:14",
+      "texto": "De mañana sácianos de tu misericordia, y cantaremos y nos alegraremos todos nuestros días.",
+      "reflexion": "Su consuelo llega justo cuando más lo necesitas.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 564,
+      "cita": "Salmos 91:15",
+      "texto": "Me invocará, y yo le responderé; con él estaré yo en la angustia; lo libraré y le glorificaré.",
+      "reflexion": "Habla con Dios hoy; Él escucha cada oración.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 565,
+      "cita": "Salmos 92:1",
+      "texto": "Bueno es alabarte, oh Jehová, y cantar salmos a tu nombre, oh Altísimo.",
+      "reflexion": "La oración abre la puerta al poder y la guía del cielo.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 566,
+      "cita": "Salmos 95:6",
+      "texto": "Venid, adoremos y postrémonos; arrodillémonos delante de Jehová nuestro Hacedor.",
+      "reflexion": "Busca Su rostro en la mañana y verás Su respuesta en el día.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 567,
+      "cita": "Salmos 100:1-2",
+      "texto": "Cantad alegres a Dios, habitantes de toda la tierra. Servid a Jehová con alegría; venid ante su presencia con regocijo.",
+      "reflexion": "Deja tus preocupaciones a los pies de Jesús y recibe Su calma.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 568,
+      "cita": "Salmos 103:1",
+      "texto": "Bendice, alma mía, a Jehová, y bendiga todo mi ser su santo nombre.",
+      "reflexion": "Recibe hoy Su gracia y compártela con quien lo necesite.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 569,
+      "cita": "Salmos 103:8",
+      "texto": "Misericordioso y clemente es Jehová; lento para la ira, y grande en misericordia.",
+      "reflexion": "El amor de Dios se manifestó en la cruz; nada lo supera.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 570,
+      "cita": "Salmos 103:12",
+      "texto": "Cuanto está lejos el oriente del occidente, hizo alejar de nosotros nuestras rebeliones.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 571,
+      "cita": "Salmos 119:133",
+      "texto": "Ordena mis pasos con tu palabra, y ninguna iniquidad se enseñoree de mí.",
+      "reflexion": "Ora con confianza: tu Padre celestial conoce tu necesidad.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 572,
+      "cita": "Salmos 133:1",
+      "texto": "¡Mirad cuán bueno y cuán delicioso es habitar los hermanos juntos en armonía!",
+      "reflexion": "La paz de Dios guarda tu corazón aun en medio de la prisa.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 573,
+      "cita": "Salmos 143:10",
+      "texto": "Enséñame a hacer tu voluntad, porque tú eres mi Dios; tu buen espíritu me guíe a tierra de rectitud.",
+      "reflexion": "Habla con Dios hoy; Él escucha cada oración.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 574,
+      "cita": "Salmos 145:18",
+      "texto": "Cercano está Jehová a todos los que le invocan, a todos los que le invocan de veras.",
+      "reflexion": "La oración abre la puerta al poder y la guía del cielo.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 575,
+      "cita": "Salmos 145:9",
+      "texto": "Bueno es Jehová para con todos, y sus misericordias sobre todas sus obras.",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 576,
+      "cita": "Salmos 146:5",
+      "texto": "Bienaventurado aquel cuyo ayudador es el Dios de Jacob, cuya esperanza está en Jehová su Dios.",
+      "reflexion": "Dios cumple lo que promete; descansa hoy en Su palabra.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 577,
+      "cita": "Salmos 150:6",
+      "texto": "Todo lo que respira alabe a JAH. Aleluya.",
+      "reflexion": "Busca Su rostro en la mañana y verás Su respuesta en el día.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 578,
+      "cita": "Salmos 16:1",
+      "texto": "Guárdame, oh Dios, porque en ti he confiado.",
+      "reflexion": "En Dios tienes un refugio seguro cuando todo se mueve.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 579,
+      "cita": "Salmos 17:8",
+      "texto": "Guárdame como a la niña de tu ojo; escóndeme bajo la sombra de tus alas.",
+      "reflexion": "Su presencia es fortaleza y escudo en el día difícil.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 580,
+      "cita": "Salmos 18:1",
+      "texto": "Te amo, oh Jehová, fortaleza mía.",
+      "reflexion": "Recibe hoy Su gracia y compártela con quien lo necesite.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 581,
+      "cita": "Salmos 23:3",
+      "texto": "Confortará mi alma; me guiará por sendas de justicia por amor de su nombre.",
+      "reflexion": "Respira y descansa: el Señor cuida de ti hoy.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 582,
+      "cita": "Salmos 23:5",
+      "texto": "Aderezas mesa delante de mí en presencia de mis angustiadores; unges mi cabeza con aceite; mi copa está rebosando.",
+      "reflexion": "Su consuelo llega justo cuando más lo necesitas.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 583,
+      "cita": "Proverbios 1:7",
+      "texto": "El principio de la sabiduría es el temor de Jehová; los insensatos desprecian la sabiduría y la enseñanza.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 584,
+      "cita": "Proverbios 4:23",
+      "texto": "Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida.",
+      "reflexion": "En tu debilidad, el poder del Señor se hace evidente.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 585,
+      "cita": "Proverbios 10:22",
+      "texto": "La bendición de Jehová es la que enriquece, y no añade tristeza con ella.",
+      "reflexion": "Cada promesa de Dios es un ancla para tu alma en tiempos inciertos.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 586,
+      "cita": "Proverbios 11:25",
+      "texto": "El alma generosa será prosperada; y el que sacia a otros, también será saciado.",
+      "reflexion": "La esperanza en Cristo no defrauda; Él termina lo que empieza.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 587,
+      "cita": "Proverbios 15:1",
+      "texto": "La blanda respuesta quita la ira; mas la palabra áspera hace subir el furor.",
+      "reflexion": "Deja tus preocupaciones a los pies de Jesús y recibe Su calma.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 588,
+      "cita": "Proverbios 16:3",
+      "texto": "Encomienda a Jehová tus obras, y tus pensamientos serán afirmados.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 589,
+      "cita": "Proverbios 16:9",
+      "texto": "El corazón del hombre piensa su camino; mas Jehová endereza sus pasos.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 590,
+      "cita": "Proverbios 17:17",
+      "texto": "En todo tiempo ama el amigo, y es como un hermano en tiempo de angustia.",
+      "reflexion": "La paz de Dios guarda tu corazón aun en medio de la prisa.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 591,
+      "cita": "Proverbios 17:22",
+      "texto": "El corazón alegre constituye buen remedio; mas el espíritu triste seca los huesos.",
+      "reflexion": "Cuida el cuerpo y el alma: ambos son un regalo de Dios.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 592,
+      "cita": "Proverbios 18:10",
+      "texto": "Torre fuerte es el nombre de Jehová; a él correrá el justo, y será levantado.",
+      "reflexion": "Corre a Él: Su amparo nunca se cierra.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 593,
+      "cita": "Proverbios 19:21",
+      "texto": "Muchos pensamientos hay en el corazón del hombre; mas el consejo de Jehová permanecerá.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 594,
+      "cita": "Proverbios 22:6",
+      "texto": "Instruye al niño en su camino, y aun cuando fuere viejo no se apartará de él.",
+      "reflexion": "Lo que Dios ha dicho se cumplirá a su tiempo y a su manera.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 595,
+      "cita": "Proverbios 27:17",
+      "texto": "Hierro con hierro se aguza; y así el hombre aguza el rostro de su amigo.",
+      "reflexion": "Respira y descansa: el Señor cuida de ti hoy.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 596,
+      "cita": "Proverbios 28:13",
+      "texto": "El que encubre sus pecados no prosperará; mas el que los confiesa y se aparta alcanzará misericordia.",
+      "reflexion": "Ora con confianza: tu Padre celestial conoce tu necesidad.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 597,
+      "cita": "Proverbios 30:5",
+      "texto": "Toda palabra de Dios es limpia; él es escudo a los que en él esperan.",
+      "reflexion": "Bajo Sus alas estás protegido hoy y siempre.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 598,
+      "cita": "Proverbios 14:26",
+      "texto": "En el temor de Jehová está la fuerte confianza; y esperanza tendrán sus hijos.",
+      "reflexion": "En Dios tienes un refugio seguro cuando todo se mueve.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 599,
+      "cita": "Proverbios 31:30",
+      "texto": "Engañosa es la gracia, y vana la hermosura; la mujer que teme a Jehová, ésa será alabada.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 600,
+      "cita": "Eclesiastés 3:1",
+      "texto": "Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 601,
+      "cita": "Eclesiastés 12:13",
+      "texto": "El fin de todo el discurso oído es este: Teme a Dios, y guarda sus mandamientos; porque esto es el todo del hombre.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 602,
+      "cita": "Eclesiastés 4:9-10",
+      "texto": "Mejores son dos que uno; porque tienen mejor paga de su trabajo. Porque si cayeren, el uno levantará a su compañero; pero ¡ay del solo! que cuando cayere, no habrá segundo que lo levante.",
+      "reflexion": "Su consuelo llega justo cuando más lo necesitas.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 603,
+      "cita": "Isaías 1:18",
+      "texto": "Venid ahora, y razonemos, dice Jehová: si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí, vendrán a ser como blanca lana.",
+      "reflexion": "El amor de Dios se manifestó en la cruz; nada lo supera.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 604,
+      "cita": "Isaías 6:8",
+      "texto": "Después oí la voz del Señor, que decía: ¿A quién enviaré, y quién irá por nosotros? Entonces respondí yo: Heme aquí, envíame a mí.",
+      "reflexion": "Habla con Dios hoy; Él escucha cada oración.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 605,
+      "cita": "Isaías 9:6",
+      "texto": "Porque un niño nos es nacido, hijo nos es dado, y el principado sobre su hombro; y se llamará su nombre Admirable, Consejero, Dios Fuerte, Padre Eterno, Príncipe de Paz.",
+      "reflexion": "La promesa del regreso de Jesús llena de sentido cada día.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 606,
+      "cita": "Isaías 25:8",
+      "texto": "Destruirá a la muerte para siempre; y enjugará Jehová el Señor toda lágrima de todos los rostros.",
+      "reflexion": "Pronto se acabarán el dolor y la espera; mantén tu mirada en el cielo.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 607,
+      "cita": "Isaías 35:4",
+      "texto": "Decid a los de corazón apocado: Esforzaos, no temáis; he aquí que vuestro Dios viene con retribución, con pago de Dios; él vendrá, y os salvará.",
+      "reflexion": "Él te levanta cuando no tienes más fuerzas.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 608,
+      "cita": "Isaías 40:8",
+      "texto": "Se seca la hierba, se marchita la flor; mas la palabra del Dios nuestro permanece para siempre.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 609,
+      "cita": "Isaías 40:11",
+      "texto": "Como pastor apacentará su rebaño; en su brazo llevará los corderos, y en su seno los llevará; pastoreará suavemente a las recién paridas.",
+      "reflexion": "Deja tus preocupaciones a los pies de Jesús y recibe Su calma.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 610,
+      "cita": "Isaías 44:22",
+      "texto": "Yo deshice como una nube tus rebeliones, y como niebla tus pecados; vuélvete a mí, porque yo te redimí.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 611,
+      "cita": "Isaías 45:22",
+      "texto": "Mirad a mí, y sed salvos, todos los términos de la tierra, porque yo soy Dios, y no hay otro.",
+      "reflexion": "Dios cumple lo que promete; descansa hoy en Su palabra.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 612,
+      "cita": "Isaías 46:4",
+      "texto": "Y hasta la vejez yo mismo, y hasta las canas os soportaré yo; yo hice, yo llevaré, yo soportaré y guardaré.",
+      "reflexion": "Su presencia es fortaleza y escudo en el día difícil.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 613,
+      "cita": "Isaías 55:8-9",
+      "texto": "Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos, dijo Jehová. Como son más altos los cielos que la tierra, así son mis caminos más altos que vuestros caminos, y mis pensamientos más que vuestros pensamientos.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 614,
+      "cita": "Isaías 66:23",
+      "texto": "Y de mes en mes, y de día de reposo en día de reposo, vendrán todos a adorar delante de mí, dijo Jehová.",
+      "reflexion": "Velemos con fe, porque el Rey está por regresar.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 615,
+      "cita": "Jeremías 1:5",
+      "texto": "Antes que te formase en el vientre te conocí, y antes que nacieses te santifiqué, te di por profeta a las naciones.",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 616,
+      "cita": "Jeremías 29:13",
+      "texto": "Y me buscaréis y me hallaréis, cuando me buscareis de todo vuestro corazón.",
+      "reflexion": "La oración abre la puerta al poder y la guía del cielo.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 617,
+      "cita": "Jeremías 32:27",
+      "texto": "He aquí que yo soy Jehová, Dios de toda carne; ¿habrá algo que sea difícil para mí?",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 618,
+      "cita": "Jeremías 17:14",
+      "texto": "Sáname, oh Jehová, y seré sano; sálvame, y seré salvo; porque tú eres mi alabanza.",
+      "reflexion": "Dios renueva tus fuerzas y sana lo que está herido.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 619,
+      "cita": "Jeremías 30:17",
+      "texto": "Mas yo haré venir sanidad para ti, y sanaré tus heridas, dice Jehová.",
+      "reflexion": "En tu debilidad, el poder del Señor se hace evidente.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 620,
+      "cita": "Lamentaciones 3:25-26",
+      "texto": "Bueno es Jehová a los que en él esperan, al alma que le busca. Bueno es esperar en silencio la salvación de Jehová.",
+      "reflexion": "Cada promesa de Dios es un ancla para tu alma en tiempos inciertos.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 621,
+      "cita": "Ezequiel 36:26",
+      "texto": "Os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne.",
+      "reflexion": "Cuida el cuerpo y el alma: ambos son un regalo de Dios.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 622,
+      "cita": "Ezequiel 20:12",
+      "texto": "Y les di también mis días de reposo, para que fuesen por señal entre yo y ellos, para que supiesen que yo soy Jehová que los santifico.",
+      "reflexion": "Recibe hoy Su gracia y compártela con quien lo necesite.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 623,
+      "cita": "Daniel 12:3",
+      "texto": "Los entendidos resplandecerán como el resplandor del firmamento; y los que enseñan la justicia a la multitud, como las estrellas a perpetua eternidad.",
+      "reflexion": "Cristo viene pronto; vive hoy preparado y con gozo.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 624,
+      "cita": "Oseas 14:4",
+      "texto": "Yo sanaré su rebelión, los amaré de pura gracia; porque mi ira se apartó de ellos.",
+      "reflexion": "Él te levanta cuando no tienes más fuerzas.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 625,
+      "cita": "Joel 2:28",
+      "texto": "Y después de esto derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas, vuestros ancianos soñarán sueños, y vuestros jóvenes verán visiones.",
+      "reflexion": "Busca Su rostro en la mañana y verás Su respuesta en el día.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 626,
+      "cita": "Amós 3:7",
+      "texto": "Porque no hará nada Jehová el Señor, sin que revele su secreto a sus siervos los profetas.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 627,
+      "cita": "Miqueas 6:8",
+      "texto": "Oh hombre, él te ha declarado lo que es bueno, y qué pide Jehová de ti: solamente hacer justicia, y amar misericordia, y humillarte ante tu Dios.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 628,
+      "cita": "Habacuc 2:3",
+      "texto": "Aunque la visión tardará aún por un tiempo, mas se apresura hacia el fin, y no mentirá; aunque tardare, espéralo, porque sin duda vendrá, no tardará.",
+      "reflexion": "La promesa del regreso de Jesús llena de sentido cada día.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 629,
+      "cita": "Habacuc 3:19",
+      "texto": "Jehová el Señor es mi fortaleza, el cual hace mis pies como de ciervas, y en mis alturas me hace andar.",
+      "reflexion": "Dios renueva tus fuerzas y sana lo que está herido.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 630,
+      "cita": "Malaquías 3:10",
+      "texto": "Traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde.",
+      "reflexion": "La esperanza en Cristo no defrauda; Él termina lo que empieza.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 631,
+      "cita": "Mateo 4:4",
+      "texto": "Él respondió y dijo: Escrito está: No sólo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 632,
+      "cita": "Mateo 5:3-4",
+      "texto": "Bienaventurados los pobres en espíritu, porque de ellos es el reino de los cielos. Bienaventurados los que lloran, porque ellos recibirán consolación.",
+      "reflexion": "La paz de Dios guarda tu corazón aun en medio de la prisa.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 633,
+      "cita": "Mateo 5:16",
+      "texto": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 634,
+      "cita": "Mateo 6:34",
+      "texto": "Así que, no os afanéis por el día de mañana, porque el día de mañana traerá su afán. Basta a cada día su propio mal.",
+      "reflexion": "Respira y descansa: el Señor cuida de ti hoy.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 635,
+      "cita": "Mateo 6:26",
+      "texto": "Mirad las aves del cielo, que no siembran, ni siegan, ni recogen en graneros; y vuestro Padre celestial las alimenta. ¿No valéis vosotros mucho más que ellas?",
+      "reflexion": "Lo que Dios ha dicho se cumplirá a su tiempo y a su manera.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 636,
+      "cita": "Mateo 10:30-31",
+      "texto": "Pues aun vuestros cabellos están todos contados. Así que, no temáis; más valéis vosotros que muchos pajarillos.",
+      "reflexion": "Su consuelo llega justo cuando más lo necesitas.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 637,
+      "cita": "Mateo 14:27",
+      "texto": "Pero en seguida Jesús les habló, diciendo: Tened ánimo; yo soy, no temáis.",
+      "reflexion": "Deja tus preocupaciones a los pies de Jesús y recibe Su calma.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 638,
+      "cita": "Mateo 17:20",
+      "texto": "Si tuviereis fe como un grano de mostaza, diréis a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 639,
+      "cita": "Mateo 18:20",
+      "texto": "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos.",
+      "reflexion": "Ora con confianza: tu Padre celestial conoce tu necesidad.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 640,
+      "cita": "Mateo 19:26",
+      "texto": "Y mirándolos Jesús, les dijo: Para los hombres esto es imposible; mas para Dios todo es posible.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 641,
+      "cita": "Mateo 22:37-38",
+      "texto": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. Este es el primero y grande mandamiento.",
+      "reflexion": "El amor de Dios se manifestó en la cruz; nada lo supera.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 642,
+      "cita": "Mateo 24:14",
+      "texto": "Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin.",
+      "reflexion": "Pronto se acabarán el dolor y la espera; mantén tu mirada en el cielo.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 643,
+      "cita": "Mateo 25:21",
+      "texto": "Su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor.",
+      "reflexion": "Dios cumple lo que promete; descansa hoy en Su palabra.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 644,
+      "cita": "Mateo 28:19",
+      "texto": "Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 645,
+      "cita": "Marcos 2:27-28",
+      "texto": "También les dijo: El día de reposo fue hecho por causa del hombre, y no el hombre por causa del día de reposo. Por tanto, el Hijo del Hombre es Señor aun del día de reposo.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 646,
+      "cita": "Marcos 10:45",
+      "texto": "Porque el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos.",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 647,
+      "cita": "Lucas 18:27",
+      "texto": "Él les dijo: Lo que es imposible para los hombres, es posible para Dios.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 648,
+      "cita": "Lucas 19:10",
+      "texto": "Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido.",
+      "reflexion": "Recibe hoy Su gracia y compártela con quien lo necesite.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 649,
+      "cita": "Lucas 6:38",
+      "texto": "Dad, y se os dará; medida buena, apretada, remecida y rebosando darán en vuestro regazo; porque con la misma medida con que medís, os volverán a medir.",
+      "reflexion": "Cada promesa de Dios es un ancla para tu alma en tiempos inciertos.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 650,
+      "cita": "Lucas 15:7",
+      "texto": "Os digo que así habrá más gozo en el cielo por un pecador que se arrepiente, que por noventa y nueve justos que no necesitan de arrepentimiento.",
+      "reflexion": "El amor de Dios se manifestó en la cruz; nada lo supera.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 651,
+      "cita": "Lucas 2:10-11",
+      "texto": "Pero el ángel les dijo: No temáis; porque he aquí os doy nuevas de gran gozo, que será para todo el pueblo: que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor.",
+      "reflexion": "La paz de Dios guarda tu corazón aun en medio de la prisa.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 652,
+      "cita": "Juan 1:1",
+      "texto": "En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 653,
+      "cita": "Juan 1:14",
+      "texto": "Y aquel Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 654,
+      "cita": "Juan 3:17",
+      "texto": "Porque no envió Dios a su Hijo al mundo para condenar al mundo, sino para que el mundo sea salvo por él.",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 655,
+      "cita": "Juan 6:35",
+      "texto": "Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed jamás.",
+      "reflexion": "Respira y descansa: el Señor cuida de ti hoy.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 656,
+      "cita": "Juan 8:32",
+      "texto": "Y conoceréis la verdad, y la verdad os hará libres.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 657,
+      "cita": "Juan 10:11",
+      "texto": "Yo soy el buen pastor; el buen pastor su vida da por las ovejas.",
+      "reflexion": "Recibe hoy Su gracia y compártela con quien lo necesite.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 658,
+      "cita": "Juan 13:34",
+      "texto": "Un mandamiento nuevo os doy: Que os améis unos a otros; como yo os he amado, que también os améis unos a otros.",
+      "reflexion": "El amor de Dios se manifestó en la cruz; nada lo supera.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 659,
+      "cita": "Juan 14:6",
+      "texto": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 660,
+      "cita": "Juan 14:15",
+      "texto": "Si me amáis, guardad mis mandamientos.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 661,
+      "cita": "Juan 15:5",
+      "texto": "Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, éste lleva mucho fruto; porque separados de mí nada podéis hacer.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 662,
+      "cita": "Juan 15:13",
+      "texto": "Nadie tiene mayor amor que este, que uno ponga su vida por sus amigos.",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 663,
+      "cita": "Juan 17:17",
+      "texto": "Santifícalos en tu verdad; tu palabra es verdad.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 664,
+      "cita": "Hechos 1:8",
+      "texto": "Pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra.",
+      "reflexion": "Habla con Dios hoy; Él escucha cada oración.",
+      "categoria": "Oración y Respuesta",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 665,
+      "cita": "Hechos 1:11",
+      "texto": "Los cuales también les dijeron: Varones galileos, ¿por qué estáis mirando al cielo? Este mismo Jesús, que ha sido tomado de vosotros al cielo, así vendrá como le habéis visto ir al cielo.",
+      "reflexion": "Velemos con fe, porque el Rey está por regresar.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 666,
+      "cita": "Hechos 4:12",
+      "texto": "Y en ningún otro hay salvación; porque no hay otro nombre bajo el cielo, dado a los hombres, en que podamos ser salvos.",
+      "reflexion": "La esperanza en Cristo no defrauda; Él termina lo que empieza.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 667,
+      "cita": "Romanos 3:23",
+      "texto": "Por cuanto todos pecaron, y están destituidos de la gloria de Dios.",
+      "reflexion": "Recibe hoy Su gracia y compártela con quien lo necesite.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 668,
+      "cita": "Romanos 6:23",
+      "texto": "Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro.",
+      "reflexion": "El amor de Dios se manifestó en la cruz; nada lo supera.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 669,
+      "cita": "Romanos 8:37",
+      "texto": "Antes, en todas estas cosas somos más que vencedores por medio de aquel que nos amó.",
+      "reflexion": "En tu debilidad, el poder del Señor se hace evidente.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 670,
+      "cita": "Romanos 10:9",
+      "texto": "Que si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 671,
+      "cita": "Romanos 12:2",
+      "texto": "No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento, para que comprobéis cuál sea la buena voluntad de Dios, agradable y perfecta.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 672,
+      "cita": "Romanos 12:21",
+      "texto": "No seas vencido de lo malo, sino vence con el bien el mal.",
+      "reflexion": "Cuida el cuerpo y el alma: ambos son un regalo de Dios.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 673,
+      "cita": "Romanos 15:4",
+      "texto": "Porque las cosas que se escribieron antes, para nuestra enseñanza se escribieron, a fin de que por la paciencia y la consolación de las Escrituras, tengamos esperanza.",
+      "reflexion": "Lo que Dios ha dicho se cumplirá a su tiempo y a su manera.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 674,
+      "cita": "1 Corintios 6:19-20",
+      "texto": "¿O ignoráis que vuestro cuerpo es templo del Espíritu Santo, el cual está en vosotros, el cual tenéis de Dios, y que no sois vuestros? Porque habéis sido comprados por precio; glorificad, pues, a Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dios.",
+      "reflexion": "Él te levanta cuando no tienes más fuerzas.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 675,
+      "cita": "1 Corintios 10:31",
+      "texto": "Si, pues, coméis o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 676,
+      "cita": "1 Corintios 13:13",
+      "texto": "Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 677,
+      "cita": "1 Corintios 15:55",
+      "texto": "¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?",
+      "reflexion": "Cristo viene pronto; vive hoy preparado y con gozo.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 678,
+      "cita": "1 Corintios 15:58",
+      "texto": "Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo no es en vano en el Señor.",
+      "reflexion": "Dios renueva tus fuerzas y sana lo que está herido.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 679,
+      "cita": "1 Corintios 16:13-14",
+      "texto": "Velad, estad firmes en la fe; portaos varonilmente, y esforzaos. Todas vuestras cosas sean hechas con amor.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 680,
+      "cita": "2 Corintios 4:16",
+      "texto": "Por tanto, no desmayamos; antes aunque este nuestro hombre exterior se va desgastando, el interior no obstante se renueva de día en día.",
+      "reflexion": "En tu debilidad, el poder del Señor se hace evidente.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 681,
+      "cita": "2 Corintios 9:7",
+      "texto": "Cada uno dé como propuso en su corazón: no con tristeza, ni por necesidad, porque Dios ama al dador alegre.",
+      "reflexion": "Dios cumple lo que promete; descansa hoy en Su palabra.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 682,
+      "cita": "Gálatas 5:22-23",
+      "texto": "Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza; contra tales cosas no hay ley.",
+      "reflexion": "Su consuelo llega justo cuando más lo necesitas.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 683,
+      "cita": "Gálatas 6:2",
+      "texto": "Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo.",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 684,
+      "cita": "Efesios 2:10",
+      "texto": "Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas.",
+      "reflexion": "Cada promesa de Dios es un ancla para tu alma en tiempos inciertos.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 685,
+      "cita": "Efesios 4:32",
+      "texto": "Antes sed benignos unos con otros, misericordiosos, perdonándoos unos a otros, como Dios también os perdonó a vosotros en Cristo.",
+      "reflexion": "Recibe hoy Su gracia y compártela con quien lo necesite.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 686,
+      "cita": "Efesios 6:10",
+      "texto": "Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fuerza.",
+      "reflexion": "Cuida el cuerpo y el alma: ambos son un regalo de Dios.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 687,
+      "cita": "Filipenses 2:13",
+      "texto": "Porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad.",
+      "reflexion": "Él te levanta cuando no tienes más fuerzas.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 688,
+      "cita": "Filipenses 4:4",
+      "texto": "Regocijaos en el Señor siempre. Otra vez digo: ¡Regocijaos!",
+      "reflexion": "Deja tus preocupaciones a los pies de Jesús y recibe Su calma.",
+      "categoria": "Paz y Consuelo",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 689,
+      "cita": "Colosenses 3:2",
+      "texto": "Poned la mira en las cosas de arriba, no en las de la tierra.",
+      "reflexion": "La esperanza en Cristo no defrauda; Él termina lo que empieza.",
+      "categoria": "Esperanza y Promesas",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 690,
+      "cita": "Colosenses 3:23",
+      "texto": "Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 691,
+      "cita": "1 Tesalonicenses 4:13-14",
+      "texto": "Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza. Porque si creemos que Jesús murió y resucitó, así también traerá Dios con Jesús a los que durmieron en él.",
+      "reflexion": "La promesa del regreso de Jesús llena de sentido cada día.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 692,
+      "cita": "1 Timoteo 4:12",
+      "texto": "Ninguno tenga en poco tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 693,
+      "cita": "2 Timoteo 3:16-17",
+      "texto": "Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 694,
+      "cita": "2 Timoteo 4:8",
+      "texto": "Por lo demás, me está guardada la corona de justicia, la cual me dará el Señor, juez justo, en aquel día; y no sólo a mí, sino también a todos los que aman su venida.",
+      "reflexion": "Pronto se acabarán el dolor y la espera; mantén tu mirada en el cielo.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 695,
+      "cita": "Hebreos 7:25",
+      "texto": "Por lo cual puede también salvar perpetuamente a los que por él se acercan a Dios, viviendo siempre para interceder por ellos.",
+      "reflexion": "El amor de Dios se manifestó en la cruz; nada lo supera.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 696,
+      "cita": "Hebreos 9:28",
+      "texto": "Así también Cristo fue ofrecido una sola vez para llevar los pecados de muchos; y aparecerá por segunda vez, sin relación con el pecado, para salvar a los que le esperan.",
+      "reflexion": "Velemos con fe, porque el Rey está por regresar.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 697,
+      "cita": "Hebreos 11:6",
+      "texto": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que le hay, y que es galardonador de los que le buscan.",
+      "reflexion": "Aunque no veas el camino completo, confía en quien lo conoce.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 698,
+      "cita": "Hebreos 13:6",
+      "texto": "De manera que podemos decir confiadamente: El Señor es mi ayudador; no temeré lo que me pueda hacer el hombre.",
+      "reflexion": "Corre a Él: Su amparo nunca se cierra.",
+      "categoria": "Refugio Celestial",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 699,
+      "cita": "Hebreos 4:10",
+      "texto": "Porque el que ha entrado en su reposo, también ha reposado de sus obras, como Dios de las suyas.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 700,
+      "cita": "Santiago 1:2-3",
+      "texto": "Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia.",
+      "reflexion": "Una fe sencilla puesta en un Dios grande mueve montañas.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 701,
+      "cita": "Santiago 1:17",
+      "texto": "Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces, en el cual no hay mudanza, ni sombra de variación.",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 702,
+      "cita": "Santiago 4:7",
+      "texto": "Someteos, pues, a Dios; resistid al diablo, y huirá de vosotros.",
+      "reflexion": "Dios renueva tus fuerzas y sana lo que está herido.",
+      "categoria": "Sanidad y Fortaleza",
+      "imagenUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 703,
+      "cita": "1 Pedro 4:8",
+      "texto": "Y sobre todo, tened entre vosotros ferviente amor; porque el amor cubrirá multitud de pecados.",
+      "reflexion": "Recibe hoy Su gracia y compártela con quien lo necesite.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 704,
+      "cita": "1 Pedro 5:6",
+      "texto": "Humillaos, pues, bajo la poderosa mano de Dios, para que él os exalte cuando fuere tiempo.",
+      "reflexion": "Camina hoy con fe; Dios guía cada uno de tus pasos.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 705,
+      "cita": "2 Pedro 3:18",
+      "texto": "Antes bien, creced en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A él sea gloria ahora y hasta el día de la eternidad. Amén.",
+      "reflexion": "La fe crece al escuchar y obedecer la Palabra de Dios.",
+      "categoria": "Fe y Confianza",
+      "imagenUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 706,
+      "cita": "1 Juan 4:8",
+      "texto": "El que no ama, no ha conocido a Dios; porque Dios es amor.",
+      "reflexion": "El amor de Dios se manifestó en la cruz; nada lo supera.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 707,
+      "cita": "1 Juan 4:19",
+      "texto": "Nosotros le amamos a él, porque él nos amó primero.",
+      "reflexion": "Eres amado con un amor que no depende de tus méritos.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 708,
+      "cita": "1 Juan 5:3",
+      "texto": "Pues este es el amor a Dios, que guardemos sus mandamientos; y sus mandamientos no son gravosos.",
+      "reflexion": "Dios te conoce por nombre y te ama sin condiciones.",
+      "categoria": "Amor de Dios",
+      "imagenUrl": "https://images.unsplash.com/photo-1438786657495-640937046d18?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 709,
+      "cita": "Apocalipsis 1:8",
+      "texto": "Yo soy el Alfa y la Omega, principio y fin, dice el Señor, el que es y que era y que ha de venir, el Todopoderoso.",
+      "reflexion": "Cristo viene pronto; vive hoy preparado y con gozo.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 710,
+      "cita": "Apocalipsis 21:3",
+      "texto": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios.",
+      "reflexion": "La promesa del regreso de Jesús llena de sentido cada día.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 711,
+      "cita": "Apocalipsis 22:14",
+      "texto": "Bienaventurados los que lavan sus ropas, para tener derecho al árbol de la vida, y para entrar por las puertas en la ciudad.",
+      "reflexion": "Pronto se acabarán el dolor y la espera; mantén tu mirada en el cielo.",
+      "categoria": "Segunda Venida de Cristo",
+      "imagenUrl": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80"
     }
   ]
 }

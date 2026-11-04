@@ -81,16 +81,22 @@ export function validateLongText(value, min = 20, max = 1500) {
  */
 export function showFieldError(field, message) {
   // Remover error previo
-  const prev = field.parentElement.querySelector('.field-error');
+  const group = field.closest('.form-group') || field.parentElement;
+  const prev = group.querySelector('.field-error');
   if (prev) prev.remove();
+
   field.classList.remove('field--error');
+  const stepper = field.closest('.number-stepper');
+  if (stepper) stepper.classList.remove('field--error');
 
   if (message) {
     field.classList.add('field--error');
+    if (stepper) stepper.classList.add('field--error');
+
     const span = document.createElement('span');
     span.className = 'field-error';
     span.setAttribute('role', 'alert');
     span.textContent = message;
-    field.parentElement.appendChild(span);
+    group.appendChild(span);
   }
 }

@@ -39,14 +39,18 @@ export function sendPrayerRequest(data) {
  * @param {Object} data - Datos del formulario de testimonio.
  */
 export function sendTestimony(data) {
-  const { nombre, edad, ciudad, testimonio } = data;
+  const { nombre, edad, pais, ciudad, testimonio } = data;
+
+  const paisLinea = pais ? `*País:* ${pais}\n` : '';
+  const ciudadLinea = ciudad ? `*Ciudad:* ${ciudad}\n` : '';
 
   const mensaje =
     `*TESTIMONIO DE FE — Conexión Celestial TV*\n` +
     `━━━━━━━━━━━━━━━━━━━━━━\n` +
     `*Nombre:* ${nombre}\n` +
     `*Edad:* ${edad} años\n` +
-    `*Ciudad:* ${ciudad}\n` +
+    paisLinea +
+    ciudadLinea +
     `━━━━━━━━━━━━━━━━━━━━━━\n` +
     `*Testimonio:*\n${testimonio}\n` +
     `━━━━━━━━━━━━━━━━━━━━━━\n` +
