@@ -70,23 +70,32 @@ function initScrollAnimations() {
 
 // ─── Modal de Oración ─────────────────────────────────────────────────────────
 function initPrayerModal() {
-  const openBtn = document.getElementById('btn-oracion');
   const modal = document.getElementById('prayer-modal');
   const closeBtn = document.getElementById('modal-close');
-  if (!openBtn || !modal) return;
+  if (!modal) return;
 
-  openBtn.addEventListener('click', () => {
+  function openModal() {
     modal.removeAttribute('hidden');
     modal.classList.add('modal--open');
     document.body.style.overflow = 'hidden';
     modal.querySelector('input, select, textarea')?.focus();
-  });
+  }
 
   function closeModal() {
     modal.setAttribute('hidden', '');
     modal.classList.remove('modal--open');
     document.body.style.overflow = '';
   }
+
+  const openTriggers = document.querySelectorAll(
+    '#btn-oracion, #service-oracion, #footer-oracion-link, [aria-controls="prayer-modal"]'
+  );
+  openTriggers.forEach((trigger) => {
+    trigger.addEventListener('click', (e) => {
+      e.preventDefault();
+      openModal();
+    });
+  });
 
   if (closeBtn) closeBtn.addEventListener('click', closeModal);
   modal.addEventListener('click', (e) => { if (e.target === modal) closeModal(); });
