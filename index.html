@@ -306,7 +306,8 @@
 
           <!-- Schedule -->
           <div data-animate="right">
-            <div class="about__schedule" id="transmission-schedule-card" aria-label="Horario de transmisión en vivo">
+            <div class="schedule-card about__schedule" id="transmission-schedule-card"
+              aria-label="Horario de transmisión en vivo">
               <div class="schedule-emoji" aria-hidden="true">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"
                   stroke-linejoin="round" class="ui-icon">
@@ -319,19 +320,8 @@
               </div>
               <h3 class="schedule-title">Horario de Transmisión</h3>
 
-              <div class="schedule-block">
-                <div class="schedule-block__day">Lunes a Viernes</div>
-                <div class="schedule-block__time">7:00 AM — 5:00 PM</div>
-                <div class="schedule-block__note">Hora Colombia (UTC-5)</div>
-              </div>
-
-              <div class="live-badge" id="schedule-live-badge" aria-live="polite">
-                <span class="live-dot" id="schedule-live-dot" aria-hidden="true"></span>
-                <span id="schedule-live-text">Transmitiendo en vivo ahora</span>
-              </div>
-
-              <!-- Estado dinámico de programas al aire / música continua -->
-              <div class="schedule-program-status" id="schedule-program-status"></div>
+              <!-- ÚNICO CONTENEDOR DINÁMICO (Alterna exclusivamente entre "Próximo Programa" o "En Vivo Ahora") -->
+              <div class="schedule-card__dynamic-container" id="schedule-status-container" aria-live="polite"></div>
 
               <div style="margin-top: var(--space-6); display: flex; flex-direction: column; gap: var(--space-3);">
                 <a href="https://www.youtube.com/@conexioncelestial7-n9k" target="_blank" rel="noopener noreferrer"
@@ -510,8 +500,8 @@
             <div class="schedule-item">
               <span class="schedule-dot" aria-hidden="true"></span>
               <div class="schedule-info">
-                <div class="schedule-days">Lunes — Viernes</div>
-                <div class="schedule-hours">7:00 AM — 5:00 PM</div>
+                <div class="schedule-days">Conexion celestial tv</div>
+                <div class="schedule-hours">Canal de youtube</div>
               </div>
             </div>
             <div class="schedule-item">

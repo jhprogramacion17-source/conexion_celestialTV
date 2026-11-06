@@ -116,8 +116,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     initPrayerModal();
     const { initPrayerForm } = await import('./controllers/prayerForm.controller.js');
     initPrayerForm();
-    const { initScheduleController } = await import('./controllers/schedule.controller.js');
-    initScheduleController();
+    const { initSchedule } = await import('./schedule.js');
+    initSchedule();
   }
 
   // Página de Testimonios
