@@ -88,6 +88,8 @@
           <li><a href="./index.html" class="nav-link" id="nav-inicio">Inicio</a></li>
           <li><a href="./pages/testimonios.html" class="nav-link" id="nav-testimonios">Testimonios</a></li>
           <li><a href="./pages/esperanza.html" class="nav-link" id="nav-esperanza">Esperanza</a></li>
+          <li><a href="./pages/programas.html" class="nav-link" id="nav-programas">Programas</a></li>
+          <li><a href="./pages/donaciones.html" class="nav-link" id="nav-donaciones">Donaciones</a></li>
         </ul>
 
         <!-- Hamburguesa -->
@@ -304,7 +306,7 @@
 
           <!-- Schedule -->
           <div data-animate="right">
-            <div class="about__schedule" aria-label="Horario de transmisión en vivo">
+            <div class="about__schedule" id="transmission-schedule-card" aria-label="Horario de transmisión en vivo">
               <div class="schedule-emoji" aria-hidden="true">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"
                   stroke-linejoin="round" class="ui-icon">
@@ -323,10 +325,13 @@
                 <div class="schedule-block__note">Hora Colombia (UTC-5)</div>
               </div>
 
-              <div class="live-badge" aria-live="polite">
-                <span class="live-dot" aria-hidden="true"></span>
-                Transmitiendo en vivo ahora
+              <div class="live-badge" id="schedule-live-badge" aria-live="polite">
+                <span class="live-dot" id="schedule-live-dot" aria-hidden="true"></span>
+                <span id="schedule-live-text">Transmitiendo en vivo ahora</span>
               </div>
+
+              <!-- Estado dinámico de programas al aire / música continua -->
+              <div class="schedule-program-status" id="schedule-program-status"></div>
 
               <div style="margin-top: var(--space-6); display: flex; flex-direction: column; gap: var(--space-3);">
                 <a href="https://www.youtube.com/@conexioncelestial7-n9k" target="_blank" rel="noopener noreferrer"
@@ -334,7 +339,7 @@
                   <svg class="ui-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                     <path
                       d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
-                  </svg> Ver en YouTube
+                  </svg> <span id="cta-youtube-text">Ver en YouTube</span>
                 </a>
                 <a href="https://open.spotify.com/playlist/5WqrbxedKYAr5PvnlwdMNz?si=9a3cba42d051494d" target="_blank"
                   rel="noopener noreferrer" class="btn btn-ghost btn-lg" id="cta-spotify-schedule"
@@ -476,6 +481,8 @@
             <li><a href="./index.html" class="footer__link">Inicio</a></li>
             <li><a href="./pages/testimonios.html" class="footer__link">Testimonios</a></li>
             <li><a href="./pages/esperanza.html" class="footer__link">Esperanza</a></li>
+            <li><a href="./pages/programas.html" class="footer__link">Programas</a></li>
+            <li><a href="./pages/donaciones.html" class="footer__link">Donaciones</a></li>
           </ul>
         </nav>
 

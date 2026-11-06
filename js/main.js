@@ -37,9 +37,11 @@ function initNavbar() {
 
   // Marcar link activo
   const currentPath = window.location.pathname;
+  const pageName = currentPath.split('/').pop() || 'index.html';
   document.querySelectorAll('.nav-link').forEach((link) => {
-    const href = link.getAttribute('href');
-    if (href && (currentPath.endsWith(href) || (href === 'index.html' && (currentPath === '/' || currentPath.endsWith('/'))))) {
+    const href = link.getAttribute('href') || '';
+    const linkPage = href.split('/').pop();
+    if (linkPage === pageName || ((pageName === '' || pageName === 'index.html') && linkPage === 'index.html')) {
       link.classList.add('nav-link--active');
       link.setAttribute('aria-current', 'page');
     }
@@ -114,6 +116,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     initPrayerModal();
     const { initPrayerForm } = await import('./controllers/prayerForm.controller.js');
     initPrayerForm();
+    const { initScheduleController } = await import('./controllers/schedule.controller.js');
+    initScheduleController();
   }
 
   // Página de Testimonios
@@ -126,5 +130,11 @@ document.addEventListener('DOMContentLoaded', async () => {
   if (path.includes('esperanza')) {
     const { initVerseView } = await import('./controllers/verseView.controller.js');
     await initVerseView();
+  }
+
+  // Página de Programas
+  if (path.includes('programas')) {
+    const { initProgramsView } = await import('./controllers/programsView.controller.js');
+    initProgramsView();
   }
 });
