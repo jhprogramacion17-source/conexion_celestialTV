@@ -324,6 +324,11 @@
   font-size: var(--text-lg);
 }
 
+.btn-block {
+  display: flex;
+  width: 100%;
+}
+
 .btn-icon,
 .btn svg {
   width: 1.15em;
@@ -1123,5 +1128,9 @@ select.form-control {
 
   .modal__content {
     padding: var(--space-6);
+  }
+
+  .btn-lg {
+    padding: var(--space-3) var(--space-6);
   }
 }
