@@ -8,6 +8,8 @@ export const CONFIG = Object.freeze({
   WHATSAPP_API_URL: 'https://wa.me/',
   SPOTIFY_PLAYLIST: 'https://open.spotify.com/playlist/5WqrbxedKYAr5PvnlwdMNz?si=9a3cba42d051494d',
   YOUTUBE_CHANNEL: 'https://www.youtube.com/@conexioncelestialtvoficial',
+  FACEBOOK_PAGE: 'https://www.facebook.com/conexioncelestialTV',
+  INSTAGRAM_PROFILE: 'https://www.instagram.com/conexioncelestial.tv/',
   VERSE_JSON_PATH_SUBPAGE: '../assets/data/versiculos.json',
   VERSE_JSON_PATH_ROOT: './assets/data/versiculos.json',
   VERSE_ROTATION_DAYS: 3,
