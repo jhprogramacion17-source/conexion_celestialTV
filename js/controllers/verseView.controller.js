@@ -27,7 +27,7 @@ export async function initVerseView() {
     }
 
     // Renderizar versículo
-    container.innerHTML = buildVerseHTML(verse);
+    container.innerHTML = buildVerseHTML(verse, isSubPage);
 
     // Animación de entrada
     requestAnimationFrame(() => {
@@ -41,14 +41,18 @@ export async function initVerseView() {
   }
 }
 
-function buildVerseHTML(verse) {
-  const imagenUrl = verse.imagenUrl || '';
-  const heroStyle = imagenUrl ? `style="background-image:url('${imagenUrl}')"` : '';
+function buildVerseHTML(verse, isSubPage = true) {
+  let imagenUrl = verse.imagenUrl || '';
+  if (imagenUrl && !imagenUrl.startsWith('http') && !imagenUrl.startsWith('../') && isSubPage) {
+    imagenUrl = '../' + imagenUrl;
+  }
 
   return `
     <article class="verse-card" aria-label="Versículo de esperanza">
       ${imagenUrl ? `
-      <div class="verse-hero" ${heroStyle}>
+      <div class="verse-hero">
+        <img src="${escapeHTMLContent(imagenUrl)}" alt="${escapeHTMLContent(verse.cita || 'Versículo de esperanza')}"
+          class="verse-hero__img" width="660" height="289" loading="lazy" decoding="async" />
         <div class="verse-hero__overlay"></div>
         <span class="verse-badge">${escapeHTMLContent(verse.categoria || 'Esperanza')}</span>
       </div>` : ''}

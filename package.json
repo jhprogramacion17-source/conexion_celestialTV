@@ -1,0 +1,14 @@
+{
+  "name": "conexion-celestial-tv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio web oficial de Conexión Celestial TV",
+  "type": "module",
+  "scripts": {
+    "optimizar:imagenes": "node scripts/optimizar-imagenes.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5",
+    "svgo": "^4.1.0"
+  }
+}

@@ -48,8 +48,13 @@
   }
   </script>
 
-  <!-- Preload images -->
-  <link rel="preload" as="image" href="./assets/img/fondos/hero_portada.png" />
+  <!-- Preload LCP Hero (Móvil y Escritorio con Dirección de Arte) -->
+  <link rel="preload" as="image" media="(max-width: 767px)"
+    imagesrcset="./assets/img/fondos/hero_portada_mobile-480.avif 480w, ./assets/img/fondos/hero_portada_mobile-768.avif 768w"
+    imagesizes="100vw" href="./assets/img/fondos/hero_portada_mobile-480.webp" fetchpriority="high" />
+  <link rel="preload" as="image" media="(min-width: 768px)"
+    imagesrcset="./assets/img/fondos/hero_portada-768.avif 768w, ./assets/img/fondos/hero_portada-1200.avif 1200w, ./assets/img/fondos/hero_portada-1448.avif 1448w"
+    imagesizes="100vw" href="./assets/img/fondos/hero_portada-1200.webp" fetchpriority="high" />
 
   <!-- Google Fonts Clásicas -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -110,8 +115,31 @@
     <!-- ═══ HERO ═══════════════════════════════════════════════ -->
     <section class="hero" aria-label="Sección principal">
       <div class="hero__bg"></div>
-      <img src="./assets/img/fondos/hero_portada.png" alt="Cruz en la montaña al amanecer — símbolo de fe y esperanza"
-        class="hero__img" loading="eager" fetchpriority="high" />
+      <picture class="hero__picture">
+        <!-- Móvil Portrait (< 768px): recorte vertical centrado -->
+        <source media="(max-width: 767px)" type="image/avif"
+          srcset="./assets/img/fondos/hero_portada_mobile-480.avif 480w, ./assets/img/fondos/hero_portada_mobile-768.avif 768w"
+          sizes="100vw" />
+        <source media="(max-width: 767px)" type="image/webp"
+          srcset="./assets/img/fondos/hero_portada_mobile-480.webp 480w, ./assets/img/fondos/hero_portada_mobile-768.webp 768w"
+          sizes="100vw" />
+        <source media="(max-width: 767px)"
+          srcset="./assets/img/fondos/hero_portada_mobile-fallback.jpg 480w, ./assets/img/fondos/hero_portada_mobile-768.webp 768w"
+          sizes="100vw" />
+
+        <!-- Escritorio / Tablet Landscape (>= 768px): panorámico -->
+        <source media="(min-width: 768px)" type="image/avif"
+          srcset="./assets/img/fondos/hero_portada-768.avif 768w, ./assets/img/fondos/hero_portada-1200.avif 1200w, ./assets/img/fondos/hero_portada-1448.avif 1448w"
+          sizes="100vw" />
+        <source media="(min-width: 768px)" type="image/webp"
+          srcset="./assets/img/fondos/hero_portada-768.webp 768w, ./assets/img/fondos/hero_portada-1200.webp 1200w, ./assets/img/fondos/hero_portada-1448.webp 1448w"
+          sizes="100vw" />
+
+        <!-- Fallback estándar -->
+        <img src="./assets/img/fondos/hero_portada-fallback.jpg"
+          alt="Cruz en la montaña al amanecer — símbolo de fe y esperanza"
+          class="hero__img" width="1448" height="1086" fetchpriority="high" decoding="async" />
+      </picture>
       <div class="hero__overlay"></div>
 
       <!-- Partículas decorativas de luz celestial -->
@@ -357,9 +385,17 @@
 
           <!-- Alabanzas -->
           <article class="program-card" data-animate data-delay="100">
-            <img src="./assets/img/alabanza_grupal.png"
-              alt="Comunidad en alabanza y adoración a Dios con manos levantadas" class="program-card__img"
-              loading="lazy" />
+            <picture>
+              <source type="image/avif"
+                srcset="./assets/img/alabanza_grupal-480.avif 480w, ./assets/img/alabanza_grupal-768.avif 768w, ./assets/img/alabanza_grupal-1200.avif 1200w"
+                sizes="(max-width: 900px) 100vw, 588px" />
+              <source type="image/webp"
+                srcset="./assets/img/alabanza_grupal-480.webp 480w, ./assets/img/alabanza_grupal-768.webp 768w, ./assets/img/alabanza_grupal-1200.webp 1200w"
+                sizes="(max-width: 900px) 100vw, 588px" />
+              <img src="./assets/img/alabanza_grupal-fallback.jpg"
+                alt="Comunidad en alabanza y adoración a Dios con manos levantadas" class="program-card__img"
+                width="588" height="330" loading="lazy" decoding="async" />
+            </picture>
             <div class="program-card__overlay">
               <span class="program-card__icon" aria-hidden="true">
               </span>
@@ -372,9 +408,17 @@
 
           <!-- Testimonios -->
           <article class="program-card" data-animate data-delay="200">
-            <img src="./assets/img/programa_testimonios.jpg"
-              alt="Comunidad compartiendo testimonios de milagros y la obra de Dios" class="program-card__img"
-              loading="lazy" />
+            <picture>
+              <source type="image/avif"
+                srcset="./assets/img/programa_testimonios-480.avif 480w, ./assets/img/programa_testimonios-768.avif 768w, ./assets/img/programa_testimonios-1200.avif 1200w"
+                sizes="(max-width: 900px) 100vw, 588px" />
+              <source type="image/webp"
+                srcset="./assets/img/programa_testimonios-480.webp 480w, ./assets/img/programa_testimonios-768.webp 768w, ./assets/img/programa_testimonios-1200.webp 1200w"
+                sizes="(max-width: 900px) 100vw, 588px" />
+              <img src="./assets/img/programa_testimonios-fallback.jpg"
+                alt="Comunidad compartiendo testimonios de milagros y la obra de Dios" class="program-card__img"
+                width="588" height="330" loading="lazy" decoding="async" />
+            </picture>
             <div class="program-card__overlay">
               <span class="program-card__icon" aria-hidden="true">
               </span>
@@ -387,8 +431,17 @@
 
           <!-- Oración -->
           <article class="program-card" data-animate data-delay="300">
-            <img src="./assets/img/programa_oracion.jpg" alt="Persona en oración con manos juntas en actitud de súplica"
-              class="program-card__img" loading="lazy" />
+            <picture>
+              <source type="image/avif"
+                srcset="./assets/img/programa_oracion-480.avif 480w, ./assets/img/programa_oracion-768.avif 768w, ./assets/img/programa_oracion-1200.avif 1200w"
+                sizes="(max-width: 900px) 100vw, 588px" />
+              <source type="image/webp"
+                srcset="./assets/img/programa_oracion-480.webp 480w, ./assets/img/programa_oracion-768.webp 768w, ./assets/img/programa_oracion-1200.webp 1200w"
+                sizes="(max-width: 900px) 100vw, 588px" />
+              <img src="./assets/img/programa_oracion-fallback.jpg"
+                alt="Persona en oración con manos juntas en actitud de súplica"
+                class="program-card__img" width="588" height="330" loading="lazy" decoding="async" />
+            </picture>
             <div class="program-card__overlay">
               <span class="program-card__icon" aria-hidden="true">
               </span>
@@ -401,9 +454,17 @@
 
           <!-- Esperanza -->
           <article class="program-card" data-animate data-delay="400">
-            <img src="./assets/img/programa_esperanza.jpg"
-              alt="Persona leyendo la Biblia en la montaña al amanecer con vista panorámica" class="program-card__img"
-              loading="lazy" />
+            <picture>
+              <source type="image/avif"
+                srcset="./assets/img/programa_esperanza-480.avif 480w, ./assets/img/programa_esperanza-768.avif 768w, ./assets/img/programa_esperanza-1200.avif 1200w"
+                sizes="(max-width: 900px) 100vw, 588px" />
+              <source type="image/webp"
+                srcset="./assets/img/programa_esperanza-480.webp 480w, ./assets/img/programa_esperanza-768.webp 768w, ./assets/img/programa_esperanza-1200.webp 1200w"
+                sizes="(max-width: 900px) 100vw, 588px" />
+              <img src="./assets/img/programa_esperanza-fallback.jpg"
+                alt="Persona leyendo la Biblia en la montaña al amanecer con vista panorámica" class="program-card__img"
+                width="588" height="330" loading="lazy" decoding="async" />
+            </picture>
             <div class="program-card__overlay">
               <span class="program-card__icon" aria-hidden="true">
               </span>

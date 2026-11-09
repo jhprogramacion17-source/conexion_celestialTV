@@ -35,6 +35,11 @@
   <link rel="apple-touch-icon" href="../assets/img/logos_iconos/apple-touch-icon.png" />
   <link rel="manifest" href="../manifest.webmanifest" />
 
+  <!-- Preload Hero LCP -->
+  <link rel="preload" as="image"
+    imagesrcset="../assets/img/testimonios_hero-480.avif 480w, ../assets/img/testimonios_hero-768.avif 768w, ../assets/img/testimonios_hero-1200.avif 1200w"
+    imagesizes="100vw" href="../assets/img/testimonios_hero-1200.webp" fetchpriority="high" />
+
   <!-- Google Fonts Clásicas -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -88,8 +93,16 @@
 
     <!-- ═══ HERO ═══════════════════════════════════════════════ -->
     <section class="testimonios-hero" aria-label="Testimonios de fe">
-      <img src="../assets/img/testimonios_hero.jpg" alt="Comunidad de fe unida en alabanza y gratitud a Dios"
-        class="testimonios-hero__bg" loading="eager" fetchpriority="high" />
+      <picture class="testimonios-hero__picture">
+        <source type="image/avif"
+          srcset="../assets/img/testimonios_hero-480.avif 480w, ../assets/img/testimonios_hero-768.avif 768w, ../assets/img/testimonios_hero-1200.avif 1200w"
+          sizes="100vw" />
+        <source type="image/webp"
+          srcset="../assets/img/testimonios_hero-480.webp 480w, ../assets/img/testimonios_hero-768.webp 768w, ../assets/img/testimonios_hero-1200.webp 1200w"
+          sizes="100vw" />
+        <img src="../assets/img/testimonios_hero-fallback.jpg" alt="Comunidad de fe unida en alabanza y gratitud a Dios"
+          class="testimonios-hero__bg" width="1376" height="768" fetchpriority="high" decoding="async" />
+      </picture>
       <div class="testimonios-hero__overlay"></div>
 
       <div class="container testimonios-hero__content">
