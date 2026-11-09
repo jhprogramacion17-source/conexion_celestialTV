@@ -126,16 +126,7 @@
 }
 
 /* Hero Logo Completo */
-.hero__logo {
-  width: min(70vw, 420px);
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  border: 1px solid rgba(212, 166, 42, 0.7);
-  border-radius: 8px;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
-  animation: fadeIn 0.9s ease 0.1s both;
-}
+
 
 /* Accesibilidad y SEO: Oculto visualmente pero accesible para lectores de pantalla y bots */
 .visually-hidden {
@@ -844,6 +835,7 @@
 }
 
 @media (max-width: 640px) {
+
   .btn-testimony-submit,
   #testimony-submit {
     padding: 0.8rem 1rem;
