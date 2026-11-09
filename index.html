@@ -9,7 +9,7 @@
   <!-- SEO -->
   <title>Conexión Celestial TV | Radio Adventista del Séptimo Día</title>
   <meta name="description"
-    content="Conexión Celestial TV — Radio y canal Adventista del Séptimo Día. Alabanzas, prédicas, mensajes bíblicos, oración y transmisión en vivo. Lunes a Viernes de 7am a 5pm." />
+    content="Conexión Celestial TV — Radio y canal Adventista del Séptimo Día. Alabanzas, prédicas, mensajes bíblicos, oración y transmisión en vivo 24/7." />
   <meta name="keywords"
     content="radio adventista, iglesia adventista, conexion celestial, predicas, alabanzas, biblia, oracion, colombia" />
   <meta name="author" content="Conexión Celestial TV" />
@@ -20,7 +20,7 @@
   <meta property="og:site_name" content="Conexión Celestial TV" />
   <meta property="og:title" content="Conexión Celestial TV | Radio Adventista del Séptimo Día" />
   <meta property="og:description"
-    content="Conexión Celestial TV — Radio y canal Adventista del Séptimo Día. Alabanzas, prédicas, mensajes bíblicos, oración y transmisión en vivo. Lunes a Viernes de 7am a 5pm." />
+    content="Conexión Celestial TV — Radio y canal Adventista del Séptimo Día. Alabanzas, prédicas, mensajes bíblicos, oración y transmisión en vivo 24/7." />
   <meta property="og:image" content="https://TU-DOMINIO.com/assets/img/logos_iconos/og-image.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
@@ -55,7 +55,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
-    href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,600;0,700;1,400;1,600&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Lato:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,600;0,700;1,400;1,600&display=swap"
     rel="stylesheet" />
 
   <!-- CSS -->
@@ -77,7 +77,7 @@
         <!-- Logo -->
         <a href="./index.html" class="navbar__logo" aria-label="Conexión Celestial - Inicio">
           <img src="./assets/img/logos_iconos/logo-emblema.webp" alt="Conexión Celestial TV" class="navbar__logo-img"
-            width="44" height="44">
+            width="44" height="44" decoding="async">
           <div class="logo-text">
             <span class="logo-name">Conexión Celestial TV</span>
           </div>
@@ -678,21 +678,6 @@
           'animation-delay:' + (Math.random() * 8) + 's'
         ].join(';');
         container.appendChild(p);
-      }
-      // Footer oracion link
-      var footerLink = document.getElementById('footer-oracion-link');
-      if (footerLink) {
-        footerLink.addEventListener('click', function (e) {
-          e.preventDefault();
-          var modal = document.getElementById('prayer-modal');
-          if (modal) {
-            modal.removeAttribute('hidden');
-            modal.classList.add('modal--open');
-            document.body.style.overflow = 'hidden';
-            var firstInput = modal.querySelector('input, select, textarea');
-            if (firstInput) firstInput.focus();
-          }
-        });
       }
     })();
   </script>

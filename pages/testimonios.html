@@ -35,6 +35,13 @@
   <link rel="apple-touch-icon" href="../assets/img/logos_iconos/apple-touch-icon.png" />
   <link rel="manifest" href="../manifest.webmanifest" />
 
+  <!-- Google Fonts Clásicas -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Lato:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,600;0,700;1,400;1,600&display=swap"
+    rel="stylesheet" />
+
   <!-- CSS -->
   <link rel="stylesheet" href="../css/main.css" />
   <link rel="stylesheet" href="../css/components.css" />
@@ -53,7 +60,7 @@
 
         <a href="../index.html" class="navbar__logo" aria-label="Conexión Celestial - Inicio">
           <img src="../assets/img/logos_iconos/logo-emblema.webp" alt="Conexión Celestial TV" class="navbar__logo-img"
-            width="44" height="44">
+            width="44" height="44" decoding="async">
           <div class="logo-text">
             <span class="logo-name">Conexión Celestial TV</span>
           </div>
@@ -272,7 +279,7 @@
                 required aria-required="true" rows="8" maxlength="1500" aria-describedby="char-counter-desc"></textarea>
               <div class="char-counter" aria-live="polite" aria-atomic="true">
                 <span id="char-counter" aria-label="Caracteres usados">0</span>/1500
-                <span id="char-counter-desc" class="sr-only">caracteres escritos de 1500 permitidos</span>
+                <span id="char-counter-desc" class="visually-hidden">caracteres escritos de 1500 permitidos</span>
               </div>
             </div>
 

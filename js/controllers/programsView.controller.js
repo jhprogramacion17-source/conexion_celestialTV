@@ -3,7 +3,7 @@
  * @description Controlador para la página de Programas (pages/programas.html).
  * Maneja el filtrado interactivo por día y el resaltado del programa actual si está al aire.
  */
-import { getTransmissionStatus } from '../services/schedule.service.js';
+import { evaluateSchedule } from '../schedule.js';
 
 export function initProgramsView() {
   const filterBtns = document.querySelectorAll('.programs-filter-btn');
@@ -39,8 +39,8 @@ export function initProgramsView() {
   });
 
   // 2. Resaltar programa al aire si coincide
-  const status = getTransmissionStatus();
-  if (status.isOnAir && status.currentProgram) {
+  const status = evaluateSchedule();
+  if (status.isLive && status.currentProgram) {
     const activeCard = document.querySelector(`[data-program-id="${status.currentProgram.id}"]`);
     if (activeCard) {
       activeCard.classList.add('program-card--live');
